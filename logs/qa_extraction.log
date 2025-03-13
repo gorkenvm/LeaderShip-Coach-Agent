@@ -1430,3 +1430,39 @@ Not: Hem düzenlenen konuşma listesinde hem de JSON içerisindeki her soru–ya
 2025-03-13 14:36:29,361 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-13 14:36:32,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-13 14:36:34,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:36:42,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:36:49,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:36:51,557 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:36:52,853 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:36:54,017 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:36:55,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:37:01,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 14:37:01,480 - INFO - 16 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,481 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,481 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,482 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,482 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,483 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,483 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,484 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,484 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,485 - INFO - 15 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,485 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,486 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,486 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,486 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,487 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,487 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,487 - INFO - 15 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,487 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,488 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,488 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,488 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,489 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,489 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,489 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,490 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,490 - INFO - 13 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,490 - INFO - 14 soru-cevap çifti eklendi.
+2025-03-13 14:37:01,497 - INFO - Toplam 373 soru-cevap çifti C:\Users\veysel_gorken\Desktop\LeaderShip-Coach-Agent\rag_qa_data.json'a kaydedildi.
+2025-03-13 14:44:22,901 - INFO - Weaviate'e veri gömme işlemi başlıyor...
