@@ -1,0 +1,10 @@
+2025-03-12 17:22:15,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 17:22:15,033 - INFO - Kullanıcı sorgusu: 'liderlik hakkında kısa bilgi ver' - Yanıt: 'Liderlik, bir grup veya organizasyonu hedeflerine ulaşmak için yönlendirebilme ve yönetebilme yeteneğidir. Bir lider, başkalarını etkileyebilen, motive edebilen ve bir takımı oluşturup yönetebilen kişidir. Liderlik, çeşitli beceriler ve özellikler gerektirir. Bunlar arasında karar verme, problem çözme, iletişim yetenekleri, stratejik düşünme ve empati bulunur.
+
+Liderlik, otokratik, demokratik, dönüşümcü, işlemci ve laisser-faire gibi farklı stillerde uygulanabilir. Bu stiller, liderin ekip üyeleriyle nasıl etkileşime girdiğini ve onları nasıl yönlendirdiğini belirler. İyi bir lider, hangi stilin belirli bir durum için en uygun olduğunu bilir ve gerektiğinde stiline uyum sağlar. İyi bir lider ayrıca, liderliğin sadece emir vermek olmadığını, aynı zamanda başkalarını dinlemek, onlardan öğrenmek ve onlara ilham vermek anlamına geldiğini de anlar.'
+2025-03-12 17:24:43,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 17:24:43,672 - INFO - Kullanıcı sorgusu: 'merhaba nasılsın' - Yanıt: 'Merhaba! Ben bir yapay zeka olduğum için duygusal durumlarım yok, ama sana yardımcı olabilmek için buradayım. Sizinle nasıl yardımcı olabilirim?'
+2025-03-12 17:24:45,012 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-12 17:27:14,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 17:27:14,651 - INFO - Kullanıcı sorgusu: 'merhaba nasılsın' - Yanıt: 'Merhaba! Ben bir yapay zekayım, bu yüzden duygusal durumlarım yok. Ancak, yardımcı olmak için buradayım. Sizinle nasıl yardımcı olabilirim?'
+2025-03-12 17:27:16,442 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

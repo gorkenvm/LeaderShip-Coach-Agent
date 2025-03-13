@@ -1,0 +1,15 @@
+pytube
+youtube_transcript_api
+git+https://github.com/openai/whisper.git
+ffmpeg-python
+sentence-transformers
+transformers
+faiss-cpu
+langchain
+streamlit
+requests
+wget
+nemo_toolkit[asr]==2.0.0rc0
+nltk
+faster-whisper>=1.1.0
+aiofiles

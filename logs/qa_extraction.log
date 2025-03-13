@@ -1,0 +1,1346 @@
+2025-03-12 15:05:42,074 - INFO - Transkriptlerden soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:05:42,076 - ERROR - Dizin bulunamadı: transcripts
+2025-03-12 15:06:10,596 - INFO - Transkriptlerden soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,609 - INFO - transcript_10_3f6AmRwvpQ0.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,610 - INFO - transcript_11_OkTsKkuUaSw.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,611 - INFO - transcript_17_0jKh8BJwPgE.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,612 - INFO - transcript_16_HdcsejPn7qo.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,612 - INFO - transcript_20_ABtB2xtA1EA.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,613 - INFO - transcript_1_JQhkbN75Ohs.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,613 - INFO - transcript_15_qeJArWCpORI.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,613 - INFO - transcript_19_0Hq-OQIhySc.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,614 - INFO - transcript_13_zF18RwaOyx8.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,614 - INFO - transcript_12_mmNbD-zatkc.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,614 - INFO - transcript_23_0_gUjjDZJvk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,621 - INFO - transcript_18_EFhDYPwipeA.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,641 - INFO - transcript_14_JFbEl3kXThk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,650 - INFO - transcript_25_OaKvIRCBVUg.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,662 - INFO - transcript_22_PPIkG8UzNdA.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,667 - INFO - transcript_24_HpPnDPN5Jbc.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,674 - INFO - transcript_9_ecrB3paNeXw.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,677 - INFO - transcript_27_6U_rWJHrcMk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,678 - INFO - transcript_21_tBK0q2wlGpU.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,679 - INFO - transcript_3_PxL3uCdcLGw.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,681 - INFO - transcript_26_2P1JLbudG0w.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,682 - INFO - transcript_5_rHlebd_URWU.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,683 - INFO - transcript_4_AY4IdMm0ZQ8.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,684 - INFO - transcript_7_cPjxDJi-_DM.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:10,684 - INFO - transcript_8_MMCoPLq4QkQ.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:06:15,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:06:15,796 - ERROR - transcript_12_mmNbD-zatkc.txt için JSON parse hatası. Ham çıktı: Özür dilerim, ama belirttiğiniz görevi gerçekleştirebilmem için bir transkripte ihtiyacım var. Lütfen bir transkript sağlayın ve görevinizi tamamlayabileyim.
+2025-03-12 15:06:54,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:06:55,031 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:06:59,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:06:59,627 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:02,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:02,915 - ERROR - transcript_20_ABtB2xtA1EA.txt için JSON parse hatası. Ham çıktı: Bu örnekte transkript olarak kullanılan bir metin verilmediği için, bir örnek oluşturmak için kurgusal bir transkript üzerinden gideceğim. Diyelim ki transkriptimiz bir podcast'ten ve konuşmacımızın adı Ayşen Esen.
+
+Transkript (Örnek): "Benim liderlik anlayışım, bir nevi hizmetkar liderlik anlayışıdır. Benim için ekip önemli. Onların gelişimlerine yardımcı olmak, onları desteklemek ve onlara gerekli araçları sağlamak benim için çok önemli. Zorluklarla karşılaştığımızda, hep birlikte bu zorlukları aşmayı öğreniyoruz. Risk almak ve yenilikçi fikirler sunmak her zaman teşvik edilir. Şeffaflık ve dürüstlük bizim ekibimizin temel değerlerindendir." - Ayşen Esen
+
+JSON Çıktısı:
+
+[
+  {
+    "question": "Ayşen Esen gibi bir lider zorlukları nasıl aşar?",
+    "answer": "Ayşen lider olarak, zorluklarla karşılaştığında ekibiyle birlikte bu zorlukları aşmayı tercih ediyor. Bu durum, her bir zorluğun bir öğrenme fırsatı olduğu ve bunun bütün ekibin gelişimine katkı sağlayacağı anlayışını yansıtıyor. Pratik bir öneri olarak, zorluklar karşısında yalnız başa çıkmayı değil, ekip olarak bu zorlukları aşmayı deneyin. Bu, hem daha etkili çözümler bulmanıza yardımcı olabilir, hem de ekibinizin birbirine bağlılığını ve dayanışmasını güçlendirir.",
+    "source": "transcript_20_ABtB2xtA1EA.txt",
+    "speaker": "Ayşen Esen"
+  },
+  {
+    "question": "Ayşen Esen liderlik anlayışını nasıl tanımlıyor?",
+    "answer": "Ayşen Esen, liderliğini hizmetkar liderlik anlayışı ile tanımlıyor. Ekip üyelerinin gelişimlerine yardımcı olmayı, onları desteklemeyi ve onlara gereken araçları sağlamayı liderliğinin merkezine koymaktadır. Bu anlamda, Ayşen'in liderlik anlayışı, diğerleri için değer yaratmayı ve onların başarısını hedefleyen bir anlayıştır. Pratik bir öneri olarak, liderlik anlayışınızı düşünün ve belki de Ayşen'in hizmetkar liderlik modelini kendi liderlik tarzınıza nasıl uygulayabileceğinizi düşünün.",
+    "source": "transcript_20_ABtB2xtA1EA.txt",
+    "speaker": "Ayşen Esen"
+  },
+  {
+    "question": "Ayşen Esen'in ekibinde şeffaflık ve dürüstlük neden önemli?",
+    "answer": "Ayşen Esen, şeffaflığı ve dürüstlüğü ekibinin temel değerleri arasında sayıyor. Bu değerler, güven oluşturmanın ve sağlıklı bir ekip dinamiği yaratmanın anahtarlarıdır. Ayrıca, bu değerler, daha etkili iletişim ve daha yüksek performans için de önemlidir. Pratik bir öneri olarak, lider olarak kendi ekibinizde bu değerleri nasıl teşvik edebileceğinizi ve bunları ekip kültürünüzün bir parçası haline nasıl getirebileceğinizi düşünün.",
+    "source": "transcript_20_ABtB2xtA1EA.txt",
+    "speaker": "Ayşen Esen"
+  }
+]
+2025-03-12 15:07:02,922 - INFO - transcript_2_1PHoWJl6zNk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:07:02,991 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:03,878 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:05,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:05,282 - INFO - transcript_6_Epkr-oCVQow.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-12 15:07:06,792 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:08,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:08,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:11,826 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:35,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:37,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:40,856 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:43,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:46,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:53,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:55,351 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:56,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:59,647 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:07:59,671 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:08:00,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:08:00,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:08:13,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:08:29,071 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 15:08:29,074 - INFO - 4 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,074 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,074 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,075 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,075 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,075 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,075 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,076 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,076 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,076 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,077 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,077 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,077 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,078 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,078 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,078 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,078 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,079 - INFO - 4 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,079 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,079 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,080 - INFO - 4 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,080 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,080 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,080 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,081 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,081 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,082 - INFO - 5 soru-cevap çifti eklendi.
+2025-03-12 15:08:29,086 - INFO - Toplam 122 soru-cevap çifti C:\Users\veysel_gorken\Desktop\enocta-ai\rag_qa_data.json'a kaydedildi.
+2025-03-13 09:43:39,742 - INFO - Transkriptlerden soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,754 - INFO - transcript_1_JQhkbN75Ohs.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,755 - INFO - transcript_2_1PHoWJl6zNk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,755 - INFO - transcript_4_AY4IdMm0ZQ8.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,756 - INFO - transcript_3_PxL3uCdcLGw.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,756 - INFO - transcript_5_rHlebd_URWU.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,757 - INFO - transcript_6_Epkr-oCVQow.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:39,758 - INFO - transcript_7_cPjxDJi-_DM.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:43:41,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,025 - ERROR - transcript_2_1PHoWJl6zNk.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 9595 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,042 - ERROR - transcript_6_Epkr-oCVQow.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 9185 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,112 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,114 - ERROR - transcript_5_rHlebd_URWU.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 10040 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,121 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,122 - ERROR - transcript_4_AY4IdMm0ZQ8.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 10759 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,147 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,148 - ERROR - transcript_1_JQhkbN75Ohs.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 10898 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,193 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,195 - ERROR - transcript_7_cPjxDJi-_DM.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 9171 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,225 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:43:41,227 - ERROR - transcript_3_PxL3uCdcLGw.txt işlenirken hata: Error code: 400 - {'error': {'message': "This model's maximum context length is 8192 tokens. However, your messages resulted in 10130 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-03-13 09:43:41,229 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,229 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,230 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,230 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,231 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,232 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,232 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:43:41,235 - INFO - Toplam 0 soru-cevap çifti C:\Users\veysel_gorken\Desktop\enocta-ai\rag_qa_data.json'a kaydedildi.
+2025-03-13 09:46:14,486 - INFO - Transkriptlerden soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,494 - INFO - transcript_1_JQhkbN75Ohs.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,495 - INFO - transcript_2_1PHoWJl6zNk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,501 - INFO - transcript_3_PxL3uCdcLGw.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,504 - INFO - transcript_4_AY4IdMm0ZQ8.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,508 - INFO - transcript_7_cPjxDJi-_DM.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,512 - INFO - transcript_5_rHlebd_URWU.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:14,520 - INFO - transcript_6_Epkr-oCVQow.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:15,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,273 - ERROR - transcript_1_JQhkbN75Ohs.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,282 - ERROR - transcript_3_PxL3uCdcLGw.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,309 - ERROR - transcript_4_AY4IdMm0ZQ8.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,332 - ERROR - transcript_5_rHlebd_URWU.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,339 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,341 - ERROR - transcript_2_1PHoWJl6zNk.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,498 - ERROR - transcript_6_Epkr-oCVQow.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-13 09:46:15,506 - ERROR - transcript_7_cPjxDJi-_DM.txt işlenirken hata: Error code: 400 - {'error': {'message': "Unsupported parameter: 'temperature' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}
+2025-03-13 09:46:15,507 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,508 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,508 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,509 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,509 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,509 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,510 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:46:15,512 - INFO - Toplam 0 soru-cevap çifti C:\Users\veysel_gorken\Desktop\enocta-ai\rag_qa_data.json'a kaydedildi.
+2025-03-13 09:46:27,846 - INFO - Transkriptlerden soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,854 - INFO - transcript_2_1PHoWJl6zNk.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,856 - INFO - transcript_3_PxL3uCdcLGw.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,862 - INFO - transcript_1_JQhkbN75Ohs.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,877 - INFO - transcript_4_AY4IdMm0ZQ8.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,877 - INFO - transcript_5_rHlebd_URWU.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,883 - INFO - transcript_6_Epkr-oCVQow.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:46:27,889 - INFO - transcript_7_cPjxDJi-_DM.txt için soru-cevap çiftleri çıkarılıyor...
+2025-03-13 09:47:38,194 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:47:38,387 - ERROR - transcript_6_Epkr-oCVQow.txt için JSON parse hatası. Ham çıktı: Aşağıda iki aşamalı çıktı yer almaktadır. İlk aşamada transkript temizlenmiş, konuşmalar mantıklı şekilde “Sunucu” ve “Konuk” olarak ayrılmış; her satıra yaklaşık zaman damgası eklenmiştir. İkinci aşamada ise, transkriptte yansıtılan liderlik temalarına (yenilikçilik, risk alma, motivasyon, ekip yönetimi, zaman yönetimi, kişisel gelişim, krizle başa çıkma, değer yaratma vb.) bağlı, ilham verici sorular ve koçluk tarzında öneriler içeren 15 maddelik JSON formatında liderlik koçluğu Q&A’ları oluşturulmuştur.
+
+──────────────────────────────
+1. Temizlenmiş ve Ayrılmış Konuşma Listesi
+
+Time: 0.00s • Sunucu: Merhaba, ben Hilmi Güvenal. Bugün Tecrübe Konuşuyorum programında konuğum Melut Dinç ile birlikteyiz. Hoş geldiniz.
+  
+Time: 66.00s • Konuk: Hoş buldum, Hilmi. Dijital oyun sektörünün dünyadaki öncülerinden biri olarak tanınmak çok gurur verici.
+
+Time: 132.00s • Sunucu: Dijital oyunun Türkiye’de ilk adımlarını atanlardan biri olduğunuzu biliyorum. 1979’da İngiltere’ye gidip, 1985’te ilk oyununuzu yazmaya başladığınızı hatırlıyorum. Ayrıca 2008 civarında tanışmış olmamız da bu alandaki etkileşiminizi gösteriyor. Dün akşam kitabınız “Hayat Bir Oyun”’u okudum; gerçekten ilham verici. Kitabı yazdıktan sonra nasıl tepkiler aldınız?
+
+Time: 198.00s • Konuk: Kitabım, oyun yazarlığımla birlikte Türkiye’ye “giytıyâr oyun yazarı” terimini getirdiğim ilk deneyimim oldu. Kitabı yayımladıktan sonra, hem yurtiçinden hem yurt dışından değerli davetler ve içten mesajlar aldım. İnsanlar, oyunlarımın yapım aşamasındaki bilinmeyen detaylara da büyük ilgi gösteriyor.
+
+Time: 264.00s • Konuk: Dijital oyun sektöründe, İngiltere’de başlayan serüvenim ve sonrasında Türkiye’ye dönüşümüm, sektöre dair pek çok yeniliğin ve girişimin temelini oluşturdu. 2011’de dünyadaki ilk dijital oyun federasyonunu kurarak, gençlerin spora ve dijital oyuna olan ilgisini artırmayı hedefledim.
+
+Time: 330.00s • Konuk: Mobil oyunların ve oyun içi reklam ile satış modellerinin yükselişi, sektörün bugün 150 milyar dolarlara ulaşmasında önemli rol oynuyor. Yurt dışında ve yurtiçinde oyunların yaratacağı ekonomiye dair şaşırtıcı rakamlar söz konusu.
+
+Time: 396.00s • Konuk: Sektöre dair başarımın altında, güçlü ekip dinamikleri, farklı disiplinleri bir araya getiren yaklaşımım ve doğal yeteneğim yatıyor. Bu süreçte, teknolojik inovasyon ve pazarlama stratejileri de büyük önem taşıdı.
+
+Time: 462.00s • Sunucu: Türkiye’ye döndükten sonra, oyunu ve şirketinizi de büyütmek adına önemli adımlar attınız. Şirketinizi satarken hissettikleriniz nelerdi? Bu süreçte neye öncelik verdiniz?
+
+Time: 528.00s • Konuk: Satış sürecinde esas amacım, yurtdışındaki deneyimlerimi ve sektördeki birikimimi ülkemize değer olarak yansıtmak oldu. Yaptığım çalışmaları, para hırsından çok, ülkem için birtakım dokunuşlar yapabilmek hedefiyle sürdürdüm.
+
+Time: 594.00s • Konuk: Oyun sektörüne adım atarken, teknik bilgi kadar yaratıcı yaklaşım, doğru zamanlamayla doğal yeteneği harmanlamak önemliydi. Bu, mühendisliğin sadece yüzde onluk bir payı olan; esasen farklı disiplinlerin, senaryonun, müziğin ve görselliğin birleştiği alanlarda başarılı olmamı sağladı.
+
+Time: 660.00s • Sunucu: Oyun tasarımcısı olmak için hangi özellikler gerektiğini düşünüyorsunuz? İlk başlarda tek başına mı çalıştınız, yoksa sonrasında ekiple mi ilerlediniz?
+
+Time: 726.00s • Konuk: Başlangıçta tek başıma ilerledim, ancak projeler geliştikçe yetenekli arkadaşlardan oluşan bir ekip kurdum. İyi fikir üretmenin ve özgün mekanikler geliştirebilmenin yanı sıra, ekip içindeki uyum ve işbirliği sürecin temel taşı oldu.
+
+Time: 792.00s • Sunucu: Günümüzde, özellikle çocukların çok zaman harcadığı oyunların, sosyalleşmeye etkileri sorgulanıyor. Bu konuda ne düşünüyorsunuz?
+
+Time: 858.00s • Konuk: Oyunların sorumluluğu insanın zaman yönetimiyle ilgili. Oyun, çekiciliğiyle insanı kendine kaptırabiliyor. Önemli olan, bilinçli kullanım ve gerekli uyarı sistemlerinin oluşturulması; böylece insanlar, “Zaman nasıl geçti?” diyeceği anlardan kaçınmış oluyor.
+
+Time: 924.00s • Sunucu: Sektörde bıraktığınız iz, yarattığınız marka ve eserler de çok konuşuluyor. Bu durumun, liderlik ve ilham verme açısından ne gibi anlamı var?
+
+Time: 990.00s • Konuk: Bir eser bırakmak, yalnızca ticari başarı değil; aynı zamanda kalıcı bir etki yaratmaktır. Küçük bir ekiple başlayan projelerin, bugün milyonlarca izleyiciye ulaşması, değerin ve tutkunun en güzel örneklerinden. Bu, aynı zamanda gençlere bir yol gösterici.
+  
+Time: 1056.00s • Sunucu: Hayatınız ve kariyeriniz üzerinden gençlere ve çocuklarınıza vereceğiniz tavsiyeler neler? Nasıl bir yol haritası çizmelerini önerirsiniz?
+
+Time: 1122.00s • Konuk: Hayat bir nehir gibi; durmaksızın akıyor, inişleri ve çıkışları var. Önemli olan, her dönemeçte deneyimleri değerlendirmek, kendi seçimlerinizi yapmak ve hatalarınızdan ders çıkarmaktır. Çocuklarıma, kendi iç seslerini dinleyerek cesur adımlar atmaları gerektiğini söylerim.
+
+Time: 1188.00s • Sunucu: Bugünkü sohbetiniz için çok teşekkür ederim; deneyimleriniz ve içten paylaşımlarınız izleyiciye ilham verecektir.
+
+Time: 1254.00s • Konuk: Ben de çok teşekkür ederim, Hilmi. Gelecek haftaki programda tekrar buluşmak üzere.
+  
+──────────────────────────────
+2. Liderlik Koçluğu Soruları ve Yanıtları (JSON Formatında)
+
+Aşağıdaki JSON dizisinde, transkriptte öne çıkan liderlik temalarına (yenilikçilik & risk alma, motivasyon, ekip yönetimi, zaman yönetimi, kişisel gelişim, krizle başa çıkma, vizyon oluşturma, değer yaratma, ilham verme vs.) bağlı, her biri transkriptteki bilgilerle ilişkilendirilebilecek 15 özgün soru–cevap yer almaktadır. Her soru için ilgili yaklaşık zaman damgası da eklenmiştir.
+
+──────────────────────────────
+[
+  {
+    "question": "Kariyerinizin ilk yıllarında, 1980’lerde İngiltere’de başlayan sürecinizde, yenilikçi fikirler ortaya koyarken hangi riskleri alıp nasıl yönlendiniz?",
+    "answer": "Doğal yeteneğimin yanı sıra, yeniliklere açık bir zihniyetle hareket ettim. Bilinmeyen bir alana adım atarken riskleri hesaplayıp, her başarısızlığı öğrenme fırsatına çevirdim. Bu süreç, cesaret ve stratejik düşünmenin önemini öğretti.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "198.00s"
+  },
+  {
+    "question": "Kendi kitap deneyiminizden yola çıkarak, yaratıcı liderlik nasıl olmalıdır?",
+    "answer": "Kitabım 'Hayat Bir Oyun' ile, yaratıcı sürecin hem kişisel hem de profesyonel alanda nasıl bir ilham kaynağı olabileceğini gösterdim. Liderlik, risk almayı, denemeyi ve doğal yeteneği ortaya koymayı gerektirir.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "132.00s"
+  },
+  {
+    "question": "Dijital oyun sektöründe öncü olmanız, liderlik vizyonunuzu nasıl şekillendirdi?",
+    "answer": "Sektörde öncü olmak, yenilikçi düşünce ve uzun vadeli stratejiler geliştirmeyi gerektiriyor. Vizyonum, teknolojiyi ve tasarımın bütünlüğünü birleştirerek, sektöre yeni dokunuşlar getirmek üzerine kurulu.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "264.00s"
+  },
+  {
+    "question": "Teknik bilgi kadar yaratıcı fikirlerin de önemli olduğunu belirttiniz; bir liderin bu dengeyi nasıl sağlaması gerektiğini düşünüyorsunuz?",
+    "answer": "Liderlik, sadece teknik becerilerle ölçülmez. Yaratıcı fikirler, farklı disiplinleri bir araya getiren bir sinerji oluşturur. Bu dengeyi sağlamak için sürekli öğrenmek, ekipteki farklı yetenekleri desteklemek ve yenilikçi yaklaşımları benimsemek gerekir.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "330.00s"
+  },
+  {
+    "question": "Şirketinizi satarken finansal getiriden ziyade, ülkenize kattığınız değeri ön planda tuttuğunuz süreçte hangi liderlik özelliklerini sergilediniz?",
+    "answer": "Önceliğim, deneyimlerimi ve birikimimi ülkem için değer yaratacak şekilde kullanmaktı. Bu süreç, dürüstlük, şeffaflık ve uzun vadeli perspektifle karar almanın ne kadar hayati olduğunu bana öğretti.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "462.00s"
+  },
+  {
+    "question": "Kendi başarı öykünüzde, tek başına başladığınız ama sonrasında ekip kurarak büyük işlere imza attığınız süreci nasıl değerlendiriyorsunuz?",
+    "answer": "İlk başlarda tek başıma çalıştım; ancak proje büyüdükçe uyumlu ve yetenekli bir ekip oluşturmak, liderlik becerilerimin en önemli adımlarından oldu. Doğru ekip, vizyonun gerçeğe dönüşmesinde en kritik unsurdur.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "726.00s"
+  },
+  {
+    "question": "Zaman yönetiminin, özellikle oyun gibi büyüleyici alanlarda, liderlik üzerindeki etkilerini nasıl değerlendiriyorsunuz?",
+    "answer": "Oyunların çekiciliği insanı adeta zamanın ötesine sürükler. Bu nedenle, liderlerin farkındalığı artıracak sistemler kurması, zaman yönetimine önem vermesi gerekir. Hem bireysel hem de ekip bazında disiplin, başarının anahtarıdır.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "858.00s"
+  },
+  {
+    "question": "Kriz anlarında, belirsizlikler arasında nasıl sakin kalıp ekibinizi yönlendirdiniz?",
+    "answer": "Krizleri, öğrenme fırsatı olarak görmek gerekir. Soğukkanlılık, stratejik planlama ve ekip içindeki güven, belirsizlik dönemlerinde başarılı kararlar almayı sağlar. Her zorluk, deneyim ve büyüme yolunda bir adımdır.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "396.00s"
+  },
+  {
+    "question": "Yaratıcı düşünceyi sürekli canlı tutmanın, liderlikteki önemi nedir?",
+    "answer": "Sürekli olarak yeni fikirler üretmek, liderliğin temel unsurlarından biridir. Yaratıcılık, sadece teknolojik gelişmelerde değil, aynı zamanda ekibin motivasyonunu artırmak ve sorunlara yenilikçi çözümler bulmakta kritik rol oynar.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "594.00s"
+  },
+  {
+    "question": "Kariyer yolculuğunuz, doğal yeteneğinizin ve tutkunuzun bir yansıması. Bu tutku, liderlik kararlarınıza nasıl yansıyor?",
+    "answer": "Tutku, her liderin itici gücüdür. Doğal eğilimlerimi ve tutkumu, her yeni projede risk alarak, yeni yollar deneyerek ve ekip arkadaşlarımın yeteneklerini ortaya çıkaracak ortamı sağlayarak yansıttım.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "1056.00s"
+  },
+  {
+    "question": "Geleceğin liderlerine, tutkularını nasıl keşfedecekleri ve yönlendirecekleri konusunda ne önerirsiniz?",
+    "answer": "Öncelikle iç sesinizi dinleyin; hangi alanlarda parlaklık görüyorsanız, o yönde kendinizi geliştirin. Risk almak, denemekten korkmamak ve her başarısızlıktan ders çıkarmak, uzun vadede sizi hem kişisel hem de profesyonel anlamda güçlü kılacaktır.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "1122.00s"
+  },
+  {
+    "question": "Ekibinizi oluştururken, farklı disiplinlerden gelen yetenekleri nasıl bir araya getirdiniz?",
+    "answer": "Farklı yetenekleri bir araya getirmek, liderin empati ve iletişim becerilerine bağlıdır. Her üyenin özgün katkısını destekleyip, ortak bir vizyon etrafında buluşturmak; bu sinerji, inovasyonu ve üretkenliği artırır.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "726.00s"
+  },
+  {
+    "question": "Başarıya giden yolda, lider olarak hangi anlarda en çok öğrenme fırsatını yakaladınız?",
+    "answer": "Her zorlu süreç, bir öğrenme fırsatıdır. Şirketimi satma, projeler geliştirirken karşılaştığım engeller ve kriz anları; tüm bunlar bana, stratejik düşünme, sabır ve kararlılıkla nasıl hareket etmem gerektiğini öğretti.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "462.00s"
+  },
+  {
+    "question": "Liderliğinizi belirleyen en önemli değerlerden biri olan şeffaflık ve dürüstlüğü nasıl sürdürüyorsunuz?",
+    "answer": "Şeffaflık, ekip içinde güven ortamı yaratır. Her adımda açık iletişim kurup, hatalarımı da paylaşarak, hem kendime hem de ekibime dürüst davranmayı öncelik haline getirdim. Bu sayede uzun vadeli ilişkiler inşa etmek mümkün oluyor.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "528.00s"
+  },
+  {
+    "question": "Geleneksel kalıpların ötesine geçip, oyun sektöründe ve yaşamınızda nasıl dönüşümsel adımlar attınız?",
+    "answer": "Yaşam ve kariyerim boyunca, statükoya meydan okuyarak, akademik bilgilerden ziyade içgüdülerime güvenerek ve fırsatları değerlendirerek ilerledim. Dönüşüm, sürekli yenilenme ve cesur kararlarla gerçekleşti.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "264.00s"
+  },
+  {
+    "question": "Sizce liderlik, bir ‘doğal yetenek’ meselesi mi, yoksa sonradan öğrenilebilen bir beceri midir?",
+    "answer": "Elbette her bireyin doğal eğilimi vardır; ancak liderlik, bu doğallığın üzerine çalışmak, deneyim kazanmak ve ekip içindeki dinamikleri iyi analiz etmekle gelişir. Bu yüzden, sürekli öğrenme ve öz değerlendirme çok önemlidir.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "396.00s"
+  },
+  {
+    "question": "Gelecek nesil liderlere, tutkularını ve hedeflerini belirlerken hangi stratejileri önerirsiniz?",
+    "answer": "Öncelikle, kendi yetenek ve tutkularınızı keşfedin. Ardından, bu alanda küçük adımlarla başlayıp deneyimlerinizi artırın. Mentorluk arayın, risk almayı öğrenin ve her başarısızlığı bir ders olarak değerlendirin.",
+    "source": "transcript_6_Epkr-oCVQow.txt",
+    "speaker": "Melut Dinç",
+    "time": "1122.00s"
+  }
+]
+  
+──────────────────────────────
+Not: Her soru ve cevap, transkriptteki özgün ifadelere ve anlatılan deneyimlere dayalı; koçluk yaklaşımında, pratik öneriler ve ilham verici mesajlar içermektedir. Kaynak olarak kullanılmış dosya adı "transcript_6_Epkr-oCVQow.txt" belirtilmiştir.
+2025-03-13 09:47:39,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:47:39,619 - ERROR - transcript_3_PxL3uCdcLGw.txt için JSON parse hatası. Ham çıktı: Aşağıda iki bölümde çıktı sunulmaktadır.
+
+──────────────────────────────
+1. Temizlenmiş ve Ayrılmış Konuşma Listesi
+
+Time: 13.14s Sunucu: "Herkese merhaba."
+Time: 15.30s Sunucu: "Bugün 'Tecrübe Konuşuyor' kapsamında, kurulum Hüsnü ile birlikteyiz."
+Time: 17.88s Sunucu: "Güreli, hoş geldin."
+Time: 17.88s Konuk: "Merhaba, hoş bulduk."
+Time: 20.12s Konuk: "Türkiye’nin dört yabancı kuruluştan sonra büyük denetim ve mali müşavirlik firmasını kurdum; halen yönetimdeyim. Uzun süre Beşiktaş Yönetim Kurulu’nda bulundum, iki dönem başkanlık yaptım; ayrıca üniversite Mütevelli Heyet Başkanlığı görevinde bulundum."
+Time: 47.27s Sunucu: "Bugün tüm bu deneyimlerin konuşulmasını istiyorum. Şu anda denetim firması dışında neler yapıyorsun? Tabu XL çıkışı gündeminde neler var? Seni en çok meşgul eden, hatta endişelendiren konular neler?"
+Time: 50.40s Konuk: "Şu anda şirketi yönetenlerin satın almadan, üretim yönetimine ve satışa kadar her aşamada birçok zorlukla karşılaştığını gözlemliyoruz."
+Time: 64.67s Konuk: "Açık konuşursam, bu zorlukların temelinde küresel belirsizlikler, komşu ülkelerle yaşanan problemler ve dalgalanmalar yatıyor. Şirketlerin birleşme, devralma ve kurumsallaşma süreçlerinde önemli etkiyle karşılaşıyoruz."
+Time: 100.36s Konuk: "Dünyadaki belirsizlik, biz şirket yöneticileri için hem risk hem de fırsat yaratan unsur. Özellikle satın alma, yönetim devralmaları ve operasyonel süreçlerde ciddi zorluklarla karşılaşmaktayız."
+Time: 124.68s Konuk: "Vergi ve mevzuat konusundaki sürekli değişim, işletmelerin planlamalarını zorlaştırıyor; bilançolar geçmiş yıllardakine göre pek iyi görünmüyor. Yine de hayatı ayakta tutma konusunda çeşitli düzenlemelerle başa çıkıyoruz."
+Time: 147.27s Konuk: "Kurumsal dönüşüm sürecinde, şirket birleşmeleri ve devralmalar örnek alınacak boyutta gerçekleşiyor. Türkiye’de bu tür işlemler bazen çok kısa süreli stratejik kararlar gerektiriyor."
+Time: 303.64s Konuk: "Borsa ortamındaki dalgalanmalar, yatırımcıların beklentilerini ciddi şekilde etkiliyor. Hem yerel hem de yabancı yatırımcı, piyasada istikrarı görmek istiyor."
+Time: 345.30s Konuk: "Projeleri belirli temellere oturtmak ve bilgisayar mühendisi, yazılım mühendisi gibi alanlardan gelen ekibimizle dijital dönüşümü yakından takip ediyoruz; bu sayede manuel işleri minimize ediyor, uzaktan erişimli denetimler gerçekleştirebiliyoruz."
+Time: 636.24s Konuk: "Teknolojiye dönüşüm sağlamak, kurumsallaşma sürecinde benim için kritik oldu. Büyük yatırımlar, titiz analizler ve düzenlemelerle şirketimizi ileriye taşıdık."
+Time: 876.80s Konuk: "Kurumsallaşma ve liderlik konularında, geçmiş tecrübelerimden yola çıkarak akıllı yönetim modelleri geliştirdim. Futbol takımı başkanlığına benzettiğim bu süreç, büyük stratejik kararlarda disiplin ve öngörü gerektiriyor."
+Time: 1044.32s Konuk: "Üniversite eğitim ve dijitalleşme alanındaki gelişmeleri yakından takip ediyorum. Uzaktan erişimli sistemler ve online eğitim modeli sayesinde, bilgi sistemleri ve yapay zeka alanında önemli adımlar atıyoruz."
+Time: 1190.70s Konuk: "Kendi gençlik yıllarımda yaşadığım zorluklar, hata ve başarı deneyimleri beni bugün olduğum noktaya getirdi. Bu süreç, hem kişisel hem de profesyonel gelişimimde anahtar rol oynadı."
+Time: 1326.12s Konuk: "Girişimci ruhum ve özgürlüğe olan bağlılığım, büyük ücretleri reddedip kendi yolumu çizmemde etkili oldu. Salih hocanın desteği ve kendi hırsım sayesinde, şirketimizi kurarken cesur adımlar attım."
+Time: 1390.90s Konuk: "Gençler, vazgeçmeyin; başarının anahtarı denemeye devam etmek. Başarı, para ve modellerin ötesinde, inanç ve disiplinle gelir."
+Time: 1525.20s Konuk: "10 yıldır sürdürdüğüm bu organizasyonun, kurumsal yapılanma ve nesiller arası devrin sağlanması açısından önemi büyük. Şirketimizi geleceğe taşımak için tüm kaynaklarımızı verimli kullanıyoruz."
+Time: 1580.05s Konuk: "Önümüzdeki hafta yeniden bir araya gelerek, bu sohbeti ve deneyimlerimizi paylaşmaya devam edeceğiz. Sağlıcakla kalın."
+
+──────────────────────────────
+2. Liderlik Koçluğu Soruları ve Yanıtları (JSON Formatında)
+
+Aşağıdaki sorular; transcriptte öne çıkan liderlik temaları—belirsizlikle başa çıkma, dijital dönüşüm, kurumsallaşma, risk yönetimi ve nesiller arası devrin sağlanması gibi—üzerine, koçluk perspektifiyle hazırlanmıştır.
+
+[
+  {
+    "question": "Küresel belirsizlik ve dalgalanmaların ortasında, bir lider olarak stratejik kararlarınızı nasıl şekillendiriyorsunuz?",
+    "answer": "Belirsizlik döneminde karar verirken, veriye dayalı analizler ve risk yönetimi modellerini kullanırım. Ekibimle sürekli diyalog halinde olup, hem kısa vadeli hem de uzun vadeli stratejiler oluşturarak belirsizlikleri fırsata çevirmek için çalışırım. Pratik önerim, her kritik kararda olasılıkları değerlendirip esnek planlar yapmanızdır.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "88.16s"
+  },
+  {
+    "question": "Kurumsallaşma sürecinde yaşadığınız zorlukları aşmak için hangi prensipleri benimsediniz?",
+    "answer": "Kurumsallaşma, disiplinli yönetim, şeffaflık ve adil paylaşım prensipleri gerektirir. Benim yaklaşımım, güçlü bir itibara sahip yapı oluşturmak için süreçleri ve iş operasyonlarını titizlikle düzenlemek; böylece, ortaklarla paylaşılan güven ortamını sağlamaktır. Önerim, temel değerlere sadık kalıp süreçleri belgelerle desteklemenizdir.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "147.27s"
+  },
+  {
+    "question": "Teknolojik dönüşüm ve dijitalleşme sürecini yönetirken ekibinizin verimliliğini nasıl artırıyorsunuz?",
+    "answer": "Dijital dönüşümü yönetmek, teknolojiye yatırım yapmanın yanı sıra ekibin yeni sistemlere uyum sağlamasını gerektirir. Biz, uzaktan erişimli denetim sistemlerine geçiş yaparak manuel iş yükünü azaltıp, çalışanların yaratıcılığını ortaya çıkarmayı hedefledik. Siz de, teknolojiyi bir araç olarak benimseyip eğitimlerle ekibinizi güçlendirmenizi tavsiye ederim.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "345.30s"
+  },
+  {
+    "question": "Risk almayı nasıl dengeliyor ve karar süreçlerinizde hangi stratejileri uyguluyorsunuz?",
+    "answer": "Risk almada dengeyi sağlamak için öncelikle olası senaryoları öngörmek ve mevcut kaynakları doğru kanalizasyona sokmak önemlidir. Karar sürecinde her zaman alternatif planlar hazırlarım; böylece beklenmedik durumlarda hızlıca adapte olabilirim. Uygulayabileceğiniz en pratik yöntem, risk analizi ve önceliklendirme çalışmaları yapmaktır.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "124.68s"
+  },
+  {
+    "question": "Bir lider olarak ekibinizi motive ederken hangi yöntemleri ve iletişim stratejilerini benimsiyorsunuz?",
+    "answer": "Motivasyon, paylaşılan vizyon ve sürekli geri bildirimle sağlanır. Ekibimle düzenli olarak toplantılar yapar, hedeflerimizi net şekilde belirler ve başarıları birlikte kutlarız. Siz de, ekip üyelerinizin bireysel yeteneklerini ortaya çıkaracak ve onları sürece dahil edecek şeffaf bir iletişim kültürü oluşturmalısınız.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "1580.05s"
+  },
+  {
+    "question": "Şirket birleşmeleri ve devralmalar süreçlerinde liderlik rolünüzü nasıl tanımlıyorsunuz?",
+    "answer": "Büyük ölçekli birleşme ve devralma işlemleri, stratejik öngörü ve esneklik gerektirir. Lider olarak, riskleri minimize edip fırsatları maksimize etmek için bütüncül bir bakış açısı benimsiyorum. Özellikle zamana duyarlı kararlar alabilmek adına, süreçleri önceden planlamaya özen gösteriyorum. Tavsiyem, stratejinizin her aşamasını detaylandırarak ilerlemenizdir.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "147.27s"
+  },
+  {
+    "question": "Dijital çağın getirdiği otomasyon ve uzaktan erişim imkanlarını nasıl değerlendirdiğinizi paylaşabilir misiniz?",
+    "answer": "Otomasyon ve dijitalleşme, verimliliği artıran en güçlü araçlardandır. Denetim süreçlerine entegre ettiğimiz uzaktan erişim sistemleri sayesinde, iş süreçlerimizi hızlandırdık ve hata payını düşürdük. Benim önerim, teknolojiyi süreçlerinize dahil ederken, çalışanlarınızı da bu konuda eğitmenizdir; böylece adaptasyon süreciniz daha hızlı olur.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "636.24s"
+  },
+  {
+    "question": "Değişim süreçleri sırasında şeffaflığı sağlamak ve ekip içi güveni inşa etmek için neler yapıyorsunuz?",
+    "answer": "Değişim, belirsizlik yaratabilir; bu yüzden açık iletişimin önceliği vardır. Süreçler, paylaşılan veriler ve düzenli bilgilendirme toplantıları kurumsallaşmanın temelidir. Siz de, şeffaf stratejiler belirleyip ekibinizle sürekli iletişim halinde kalarak, güven ortamını oluşturabilirsiniz.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "1044.32s"
+  },
+  {
+    "question": "Kişisel tecrübelerinizden yola çıkarak, genç liderlere kariyer yolculuklarında nasıl bir yaklaşım önerirsiniz?",
+    "answer": "Genç liderlerin cesur adımlar atmaları, öğrenmeye açık olmaları ve hata yapmaktan korkmamaları gerekir. Benim tecrübem, zorluklarla yüzleşip onlardan ders çıkararak büyümekte yatıyor. Tavsiyem, risk alırken stratejik düşünmeniz, mentor desteğine başvurmanız ve her başarısızlıktan öğrenmeniz yönünde.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "1190.70s"
+  },
+  {
+    "question": "Girişimci ruhunuz ve özgürlüğe olan bağlılığınız, yüksek teklifler önünde nasıl bir duruş sergilemenize yol açtı?",
+    "answer": "Girişimcilikte önemli olan, kendi değerlerinizden ödün vermeden ilerleyebilmek. Yüksek teklifler cazip olabilir ama benim için esas olan, bağımsızlık ve özgünlük. Bu yüzden, kariyerimde alacağım her kararda uzun vadeli hedeflerimi göz önünde bulundurdum. Siz de, yaptığınız işe ve vizyonunuza inanarak, dış baskılara rağmen yolunuzdan sapmayın.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "1326.12s"
+  },
+  {
+    "question": "Organizasyon devri ve sonraki nesillere liderlik mirası bırakma konusunda nasıl bir strateji izliyorsunuz?",
+    "answer": "Devrin sağlıklı gerçekleşmesi için, bilgi ve deneyimi sistematik olarak paylaşmak şart. Kurumsal yapılanmamızı özenle planlayarak, gelecek nesillere de sorumluluk verecek yapılar kurduk. Bu, sürekli mentorluk ve planlı devir süreçleriyle mümkün oluyor. Önerim, aydınlık bir gelecek inşa etmek için şimdiden stratejilerinizi belirleyip uygulamaya koymanızdır.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "1525.20s"
+  },
+  {
+    "question": "Zorlu dönemlerde liderlik yaparken hangi kişisel motivasyon kaynaklarınız size yol gösteriyor?",
+    "answer": "Kişisel motivasyonum, geçmişte edindiğim tecrübeler, ailesel değerler ve ekibimle kurduğum güçlü bağlardan geliyor. Her zorlu dönemde, kendime olan inancım ve misyonum bana yön veriyor. Benim önerim, kendi değerlerinizi belirleyip, onlardan beslenen bir liderlik anlayışı geliştirmenizdir.",
+    "source": "transcript_3_PxL3uCdcLGw.txt",
+    "speaker": "Konuk",
+    "time": "1580.05s"
+  }
+]
+2025-03-13 09:47:40,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:47:40,278 - ERROR - transcript_4_AY4IdMm0ZQ8.txt için JSON parse hatası. Ham çıktı: Aşağıda önce transkript temizlenmiş ve konuşmacılara ayrılmış, sonra da temizlenmiş metin temelinde liderlik koçluğu için hazırlanmış sorular–yanıtları JSON formatında sunulmuştur.
+
+──────────────────────────────
+1. AŞAMA: Transkripti Temizle ve Konuşmacıları Ayır
+
+Aşağıdaki liste, yaklaşık 22 dakikalık videoda yer alan temel konuşmacı bloklarına göre oluşturulmuştur. Dolgu ifadeleri, tekrarlamalar ve programla alakasız kısımlar (ör. “abone ol”) çıkartılmış, cümleler doğal ve akıcı hâle getirilmiştir.
+
+• Time: 13.09s  
+ Sunucu: "Herkese merhaba, ben Hilmi Güvenal."
+
+• Time: 16.15s  
+ Sunucu: "Tecrübe konuşuyor da, bugün konum Taner."
+
+• Time: 18.70s – 1467.97s  
+ Konuk: "Merhaba, ben Taner Özdeş. Siber güvenlik, teknolojik gelişmeler ve liderlik konularında 20 yılı aşkın deneyimimi sizlerle paylaşıyorum. Çalıştığım kurumlarda, devlet destekli ve özel sektörde, siber tehditlerden banka ve enerji altyapılarının risk yönetimine kadar pek çok farklı alanda çözümler ürettim. Eğitim ve danışmanlık çalışmalarımda; satış stratejilerinden duygusal zekanın, özgüvenin ve zaman yönetiminin önemine değindim. Ekibin verimli çalışması, risklere karşı proaktif önlemler alınması, şeffaf iletişimin ve değişime uyum sağlanmasının liderlikte temel taşlar olduğuna inanıyorum. Ayrıca, aile bağlarımızın ve kişisel değerlerimizin de iş yaşamındaki başarının yapı taşlarından olduğunu düşünüyorum."
+
+• Time: 1471.87s – 1498.69s  
+ Sunucu: "Programın sonunda, konuklarımızın liderlik vizyonunu daha iyi anlayabilmek için; iyi bir liderin hangi stratejileri benimsemesi gerektiğini, zorlukların nasıl aşılacağını ve 50 yıl sonra nasıl hatırlanmak istediğini merak ediyorum. Bu sorular üzerinden hep birlikte öğreneceğimiz pek çok değerli nokta var."
+
+• Time: 1502.35s – 1512.09s  
+ Sunucu: "Teşekkür ederim, umarım izleyicilerimiz keyifli bir saat geçirmiştir. Bir sonraki programda görüşmek üzere, sağlıcakla kalın."
+
+──────────────────────────────
+2. AŞAMA: Liderlik Koçluğu Soruları ve Yanıtları (JSON Formatında)
+
+Aşağıda, transkriptte yer alan liderlik temalarına (motivasyon, ekip yönetimi, risk alma, şeffaflık, duygusal zeka, iletişim, değişim yönetimi, zaman yönetimi, kişisel gelişim, teknolojik adaptasyon, finansal vizyon, inovasyon, aile–iş dengesi, müşteri odaklılık ve siber güvenlik) dayanarak hazırlanmış 15 ilham verici soru ve her soruya koçluk tarzında verilen yanıtlar yer almaktadır. Her soruda, ilgili transkriptten akla gelen yaklaşık zaman damgası bilgisi de eklenmiştir.
+
+[
+  {
+    "question": "Zorlu siber tehdit ortamında ekibinizi motive etmek için hangi yöntemleri kullanıyorsunuz?",
+    "answer": "Motivasyonu canlı tutmak, ekibin her bireyinin değerini bilmek ve onların rolüne uygun hedefler koymaktan geçer. Ekibinize güven aşılayarak, yenilikçi çözümler üretmelerine fırsat tanıyın; böylece her zorlukta birlikte güçlenirsiniz.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "73.10s"
+  },
+  {
+    "question": "Ekibinizin özgüvenini ve dayanışmasını nasıl sağlıyorsunuz?",
+    "answer": "Özgüven, her bireyin yeteneklerine inanmasından doğar. Ekibinizle düzenli geri bildirim ve başarı öykülerini paylaşın, zorlukları beraber analiz edin. Bu yaklaşım, ekip içinde dayanışmayı ve birlikte hareket etme isteğini güçlendirir.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "700.00s"
+  },
+  {
+    "question": "Yeni projelere adım atarken riskleri nasıl değerlendirip yönetiyorsunuz?",
+    "answer": "Risk almak, yeniliğin bir parçasıdır. Her girişimde detaylı analiz yapmak, olası senaryoları belirlemek ve önleyici stratejiler geliştirmek çok önemlidir. Böylece riskleri fırsata çevirebilirsiniz.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1077.54s"
+  },
+  {
+    "question": "Liderlikte şeffaflık neden bu kadar önemlidir ve bunu nasıl sağlıyorsunuz?",
+    "answer": "Şeffaflık, güven oluşturmanın temelidir. Açık iletişim, ekip üyelerinizle samimi diyaloglar kurmanıza ve olası problemlerin erken aşamada tespit edilip çözülmesine yardımcı olur. Böylece her adımınız destek görür.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "800.00s"
+  },
+  {
+    "question": "Lider olarak duygusal zekanızı nasıl geliştirmeye çalışıyorsunuz?",
+    "answer": "Duygusal zeka, empati ve kendini tanıma ile başlar. Kendime sürekli soru sorarak, eğitimlere ve mentorluk programlarına katılarak duygusal farkındalığımı artırmaya çalışıyorum. Bu sayede hem kişisel hem de profesyonel ilişkilerimde daha başarılı oluyorum.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1269.51s"
+  },
+  {
+    "question": "Doğru iletişim ile ekip verimliliğini nasıl artırıyorsunuz?",
+    "answer": "İletişimde netlik ve samimiyet esastır. Ekibimle düzenli toplantılar, açık diyalog ve yapıcı geri bildirimler sayesinde her üyemizin sesini duyurmasını sağlıyorum. Bu ortam, verimliliğin yanı sıra güveni de pekiştirir.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "797.75s"
+  },
+  {
+    "question": "Değişim süreçlerinde ekibinizi nasıl yönlendiriyorsunuz?",
+    "answer": "Değişim, liderin esnekliğini ve vizyonunu ortaya koyması gereken bir alandır. Ekibimle birlikte hedef odaklı planlar geliştiriyor, belirsizlikleri aşmak için stratejik adımlar atıyoruz. Herkesin sürece katkı sağlaması, değişimin verimli yönetilmesine olanak tanır.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1208.33s"
+  },
+  {
+    "question": "Günlük iş hayatında zamanı nasıl verimli kullanıyorsunuz?",
+    "answer": "Zaman yönetimi, planlama ve disiplin ile mümkündür. Her sabah belirli zamanlarda kitap okuyup, stratejik düşüncelerimi netleştiriyorum. Böylece günün her anını, öğrenme ve üretkenliğe ayırmış oluyorum.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1241.85s"
+  },
+  {
+    "question": "50 yaş gözüyle liderlik perspektifiniz, genç nesillere ne gibi tavsiyeler veriyor?",
+    "answer": "Yaşanan tecrübeler, hatalarımızdan öğrenmek ve sürekli gelişmek için paha biçilmezdir. Gençlere, kendi potansiyellerini keşfetmeleri, risk almaktan korkmamaları ve hatalarını birer öğrenme fırsatı olarak görmelerini öneriyorum.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "565.15s"
+  },
+  {
+    "question": "Teknolojik gelişmelere uyum sağlamak için hangi stratejileri benimsemek en etkili yoldur?",
+    "answer": "Teknoloji hızla değişiyor; dolayısıyla sürekli öğrenmek, sektördeki gelişmeleri yakından takip etmek ve ekibi bu yeniliklere adapte edecek eğitimler düzenlemek çok önemlidir. Böylece organizasyonunuz geleceğe her daim hazır olur.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "283.13s"
+  },
+  {
+    "question": "Ekonomik dalgalanmalara karşı lider olarak stratejilerinizi nasıl belirliyorsunuz?",
+    "answer": "Ekonomik belirsizliklerde soğukkanlılık ve stratejik planlama esastır. Piyasa koşullarını sürekli analiz edip, esnek bütçe planları ve risk yönetimi stratejileri geliştiriyorum. Böylece hem kendim hem de ekibim bu belirsizliklere hazırlıklı oluyor.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1283.05s"
+  },
+  {
+    "question": "Yaratıcı çözümler üretmek için ekibinizi nasıl teşvik ediyorsunuz?",
+    "answer": "İnovasyon, farklı bakış açılarını desteklemekten doğar. Ekibimin yaratıcı fikirlerini dinleyip, risk almalarını teşvik ediyorum. Grup çalışmaları, beyin fırtınaları ve ödüllendirici sistemler uygulayarak, yeni ve yaratıcı çözümler üretmelerine olanak sağlıyorum.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1453.09s"
+  },
+  {
+    "question": "Lider olarak aile desteğinin iş yaşamındaki yerini nasıl değerlendiriyorsunuz?",
+    "answer": "Aile, hayatın temel direğidir. Güçlü aile bağları, stresten uzaklaşmanıza ve profesyonel hayatta daha dengeli adımlar atmanıza yardımcı olur. Ekibinize de, aile hayatıyla iş yaşamı arasında denge kurmanın önemini vurguluyorum.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "767.02s"
+  },
+  {
+    "question": "Müşteri ilişkileri ve güvenlik konusundaki yaklaşımınız lider olarak nasıl şekilleniyor?",
+    "answer": "Müşteri odaklılık, uzun vadeli güven inşa etmenin anahtarıdır. Doğru stratejiler, şeffaf iletişim ve güçlü teknik altyapı ile müşteri güvenliğini sağlamaya odaklanıyorum. Bu yaklaşım, hem müşteri sadakatini hem de kurum itibarını artırır.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "1151.23s"
+  },
+  {
+    "question": "Siber güvenlik alanında uyguladığınız önlemler, liderlik felsefenizi nasıl etkiliyor?",
+    "answer": "Siber güvenlik, günümüzün en kritik konularından biri. Alınan önlemler, kriz anlarında hızlı kararlar verebilmeyi ve kurumun sürekliliğini sağlamayı gerektirir. Bu tecrübeler, liderlik vizyonumda disiplin, proaktivite ve yenilikçiliğin ne kadar önemli olduğunu sürekli hatırlatıyor.",
+    "source": "transcript_4_AY4IdMm0ZQ8.txt",
+    "speaker": "Taner Özdeş",
+    "time": "73.10s"
+  }
+]
+
+──────────────────────────────
+Yukarıdaki çıktılar;
+
+• İlk bölümde transkript, gereksiz ifadeler çıkarılarak ve konuşmacı bloklarına yaklaşık zaman damgaları eklenerek doğal bir şekilde düzenlenmiştir.
+• İkinci bölümde ise, liderlik temaları üzerinden ilham verici sorular oluşturulmuş; her soru için samimi, profesyonel ve pratik öneriler içeren yanıtlar, ilgili transkript zaman damgası referans edilerek JSON formatında sunulmuştur.
+
+Bu şekilde hem programın içeriği temizlenmiş, hem de liderlik koçluğu kapsamında kullanılabilecek sağlam sorular–yanıt örnekleri üretilmiş oldu.
+2025-03-13 09:47:41,338 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:47:41,534 - ERROR - transcript_5_rHlebd_URWU.txt için JSON parse hatası. Ham çıktı: Aşağıda önce transkript dikkatlice temizlenip konuşmacılara ayrılmış, sonrasında ise metindeki liderlik temalarına dayalı örnek Liderlik Koçluğu Soru–Yanıtları yer almaktadır.
+
+─────────────────────────────  
+1. Transkripti Temizle ve Konuşmacıları Ayır
+
+Aşağıdaki liste, konuşma cümleleri temizlenmiş, gereksiz dolgu ifadeleri, tekrarlamalar ve programla alakasız ifadeler çıkarılmış, konuşma kesitleri mantıklı şekilde Sunucu (soruları yönelten) ve Konuk (yanıt veren) olarak ayrılmıştır. Süre bilgileri, orijinal transkriptteki zaman damgalarından alınmış ya da içerikteki akışa göre tahmini olarak yerleştirilmiştir.
+
+• Time: 13.09s Sunucu: “Herkese merhaba, ben 20 Güvenal Tecrübe. Bugünkü programda konuşuyoruz, hoş geldiniz.”
+• Time: 16.63s Sunucu: “Konumuzun detaylarına geçmeden, sizlere kısaca kendimden bahsetmek istiyorum.”
+• Time: 20.02s Konuk: “Merhaba, Netaş Psikoteknik. Birçok kuruluşta kurucu ya da başkanlık yaptım. Spor alanında – satranç, voleybol gibi – farklı deneyimlerim oldu. Ayrıca, dijital dönüşüm ve yapay zeka projelerinde de görev aldım.”
+• Time: 29.35s Sunucu: “Kuruluşlarda edindiğiniz bu tecrübe, iş dünyasındaki farklı rotalara yönelmenize nasıl katkı sağladı?”
+• Time: 34.32s Konuk: “Her şey, farklı alanlarda kazandığım deneyimler ve karşılaştığım zorluklar doğrultusunda evrildi. Zaman zaman istenmeyen koşullar olsa da, spor ve iş hayatındaki disiplin sayesinde hepsini gerçekleştirdim.”
+• Time: 57.81s Konuk: “Ayrıca dijital dönüşüm çalışmalarında, Akman projesi kapsamında yapay zeka destekli sistemler geliştirdik. Bu sistemler, enerji optimizasyonundan öngörü hesaplamalarına kadar birçok alanda yenilik sağladı.”
+• Time: 73.10s Sunucu: “Ne diyorsun? Sektöre kırk yıl damgasını vurmuş biri olarak, Türkiye'de yürütülen çalışmaları nasıl değerlendiriyorsun? Çok teşekkür ederim.”
+• Time: 89.06s Konuk: “Üst düzey yöneticilik döneminde zorluklar yaşamak kaçınılmazdı. 2010’da radikal kararlar aldım ve 2011’de Akman’ı kurarken iş süreçlerimi 13 temel çatı üzerine oturttuk; bunlardan biri de araştırma ve geliştirme olmak üzere, inovasyon ve heyecanı esas aldık.”
+• Time: 253.10s Sunucu: “Bu konuyu biraz açarsan; Sistemleri siz mi yönettiniz yoksa bazı süreçleri ben mi devralayım, açıklar mısın?”
+• Time: 257.63s Konuk: “Makine öğrenmesi ve yapay zekayı birleştirerek Avrupa’da etkin projeler geliştirdik. Örneğin, güneş paneli üretimi ve enerji tüketiminin öngörüsünü yapmak için algoritmalar oluşturduk; patentini aldığımız bu sistem, enerji verimliliğini artırmayı hedefliyor.”
+• Time: 313.08s Sunucu: “Özellikle teknokentlerde, çıkan ürünlerin ihracat kapasitesi ve yatırımların geri dönüşü konusunda ne gibi ölçütler uyguluyorsunuz?”
+• Time: 358.80s Konuk: “Gençlere ve girişimcilere destek sağlamaya odaklı çalışmalar yürütüyoruz. Ar-Ge yatırımları, teknolojik gelişim ve ulusal–uluslararası iş birlikleri, bu sürecin ayrılmaz parçaları.”
+• Time: 406.21s Konuk: “Doğadan ilham aldığımız örneklerden de bahsetmek gerekirse, örneğin Deniz kaplumbağalarının doğal düzeni gençlerimize ilham veriyor; böylece sürdürülebilir ve yenilikçi çözümler üretebiliyoruz.”
+• Time: 512.46s Sunucu: “Şirketlerin makine öğrenmesi ve yapay zekaya yaklaşımını nasıl değerlendiriyorsun?”
+• Time: 541.38s Konuk: “Teknolojiyle değişime ayak uydurmayan şirketlerin zorluk yaşayacağını düşünüyorum. Üst düzey yöneticiler, fikirleri teknolojik bir dönüşüm olarak algılayıp, büyük resmi göremeyenlerde eksiklikler olduğunu belirtiyor.”
+• Time: 637.94s Konuk: “Kurumsal yönetişim, inovasyon ve stratejik planlama aşamalarında, uyandırma ve farkındalık sunumları düzenleyerek ekibi sürekli motive ediyor ve yönlendiriyoruz.”
+• Time: 773.00s Konuk: “Gençlere tavsiyem, her zaman çırpınmaya devam edin. Destek alabileceğiniz insanlara açık olun; ister şirket içi isterse uluslararası arenada, birlikte hareket etmek çok önemli.”
+• Time: 1418.13s Konuk: “Teknolojik değişimin hızı, özellikle kuantum bilgisayarların geliştirilmeye başlanmasıyla, yazılım dillerinden süreç yönetimine kadar pek çok alanı kökten değiştirecek.”
+• Time: 1554.22s Sunucu: “Konuşmamız burada sona eriyor; bugünkü sohbet ve paylaşımlar için teşekkür ederiz. Gelecek videolarda görüşmek üzere, sağlıcakla kalın.”
+
+─────────────────────────────  
+2. Liderlik Koçluğu Soruları ve Yanıtları (JSON formatında)
+
+Aşağıdaki JSON dizisinde, temizlenmiş transkriptte öne çıkan liderlik temalarına (motivasyon, ekip yönetimi, risk alma, dijital dönüşüm, inovasyon, şeffaflık, mentorluk, stratejik vizyon, değişim yönetimi, sürekli öğrenme vb.) dayalı, her biri yaklaşık ilgili zaman damgası belirlenmiş 15 ilham verici soru ve samimi, profesyonel koçluk cevabı yer almaktadır.
+
+JSON Çıktısı:
+------------------------------------------------
+[
+  {
+    "question": "Zorluklar karşısında nasıl motive oluyorsunuz? Kriz anlarında enerjinizi nasıl koruyorsunuz?",
+    "answer": "Üst düzey yönetimde geçirdiğim dönemlerde, her zorluğun içinde bir öğrenme fırsatı gördüm. Kendime ve ekibime sürekli olarak gelecek vizyonuyla yaklaşmak, motivasyonu yüksek tutmanın en önemli yolu oldu. Gerçekten de, her ters koşul yeni bir strateji geliştirmenin zeminini hazırlıyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "73.10s"
+  },
+  {
+    "question": "Ekip yönetiminde karşılaştığınız zorlukları nasıl aşıyorsunuz? Farklı disiplinlerden gelen bireyleri nasıl uyum içinde çalıştırıyorsunuz?",
+    "answer": "Ekip içindeki çeşitlilik, doğru iletişim stratejileriyle birleştiğinde büyük bir güç haline geliyor. Ekip üyelerinin her birinin potansiyelini ortaya çıkarmak adına, onların güçlü yönlerine odaklanıyor ve ortak hedefler belirliyorum. Açık iletişim ve karşılıklı güven, başarının anahtarıdır.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "358.80s"
+  },
+  {
+    "question": "Yeni projeler ve inovasyon yolunda riskleri nasıl yönetiyorsunuz? Radikal değişimlere nasıl karar veriyorsunuz?",
+    "answer": "Risk almadan inovasyon mümkün değildir. 2010 yılında aldığım kararlar, yenilikçi çözümlerin önünü açtı. Her radikal adımda, risk analizi yapıp, ekibimle birlikte alternatif stratejiler belirliyoruz. Hata yapmaktan korkmamak ve onlardan hızlıca ders çıkarmak, bu sürecin temelidir.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "89.06s"
+  },
+  {
+    "question": "Sürekli değişen teknolojik ortamda adaptasyon nasıl sağlanır? Teknolojiyi takip etme stratejileriniz nelerdir?",
+    "answer": "Teknolojinin hızla değiştiği bir ortamda, sürekli öğrenme ve yeniliklere açık olma şarttır. Düzenli eğitim programları, teknolojik trend analizi ve ekip içi paylaşım oturumlarıyla, her zaman güncel kalmaya çalışıyoruz. Bu yaklaşım, karşılaştığımız zorlukları hızla avantaja çevirmemizi sağlıyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "1418.13s"
+  },
+  {
+    "question": "Dijital dönüşüm projelerinde önceliklerinizi nasıl belirliyorsunuz? Hangi alanlarda yenilikçi teknolojiler kullanıyorsunuz?",
+    "answer": "Dijital dönüşümde, öncelikle iş süreçlerinin verimliliğini artırmaya odaklanıyoruz. Yapay zeka ve veri analitiği kullanarak enerji optimizasyonu, öngörü modelleri gibi projeler geliştiriyoruz. Buradaki yaklaşımımız, teknolojiyi işin merkezine koyarak, rekabet avantajı elde etmek üzerine kuruludur.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "57.81s"
+  },
+  {
+    "question": "Kurumsal yönetişimde inovasyonu nasıl teşvik ediyorsunuz? Çalışanlarınızı yenilikçi düşünmeye nasıl motive ediyorsunuz?",
+    "answer": "İnovasyon kültürünün en önemli unsurlarından biri, çalışanların fikirlerine değer vermek ve onları dinlemektir. Düzenli toplantılar, beyin fırtınası oturumları ve başarıların paylaşılması, ekibim içinde yaratıcılığı besleyen uygulamalardan bazılarıdır. Her bireyin önerisine açık olmak, yenilikçiliğin kapısını aralar.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "637.94s"
+  },
+  {
+    "question": "Şeffaflık ve açık iletişim liderlikte ne kadar önemli? Ekip içinde güveni nasıl inşa ediyorsunuz?",
+    "answer": "Şeffaflık, başarılı bir liderlik pratiğinin temel taşlarındandır. Hem kişisel hem kurumsal düzeyde, fikirlerin ve geri bildirimlerin açıkça paylaşılması, ekip içinde dayanışma ve güven oluşturur. Bu yaklaşım, zor karar anlarında dahi her şeyin daha net algılanmasını sağlar.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "541.38s"
+  },
+  {
+    "question": "Genç liderlere ve girişimcilere nasıl ilham veriyorsunuz? Mentorluk yaklaşımınız nedir?",
+    "answer": "Gençlere sürekli olarak ‘çırpınmaya devam edin’ diyorum. Başarı, takım çalışması ve birbirine destek olma ruhuyla gelir. Onlara, kendi yeteneklerini keşfetmeleri ve başarısızlıklardan ders çıkarmaları için ortam sağlamaya özen gösteriyorum. Kişisel deneyimlerimden yola çıkarak, her zaman destek mesajları veriyorum.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "773.00s"
+  },
+  {
+    "question": "Uluslararası görevlerde kültürel farklılıkları nasıl yönetiyorsunuz? Farklı pazarlarda başarılı stratejiler nasıl geliştiriyorsunuz?",
+    "answer": "Uluslararası arenada çalışmak, farklı kültürleri ve çalışma dinamiklerini anlamayı gerektirir. Manchester’daki deneyimlerim ve diğer küresel projelerim, bana iletişim ve adaptasyon becerilerini geliştirme fırsatı sundu. Sürekli diyalog ve yerel dinamiklerin izlenmesi, stratejik kararlarımın temelini oluşturuyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "1017.26s"
+  },
+  {
+    "question": "Büyük resmi görebilmek için stratejinizi nasıl belirliyorsunuz? Uzun vadeli vizyonunuz nedir?",
+    "answer": "Büyük resmi yakalayabilmek, detaylara takılmadan stratejik öncelikleri belirlemekten geçiyor. Sunumlar, vizyon toplantıları ve stratejik planlamalar yaparak, hem kısa hem uzun vadeli hedefleri netleştiriyoruz. Böylece ekibim, her adımda ortak hedefe doğru emin adımlarla ilerliyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "607.06s"
+  },
+  {
+    "question": "Kurumsal değişim süreçlerini yönetirken hangi yöntemleri uyguluyorsunuz? Değişime dirençle nasıl başa çıkıyorsunuz?",
+    "answer": "Değişim yönetiminde şeffaflık, planlı geçiş süreçleri ve çalışan katılımı kritik önem taşır. Yeni stratejileri hayata geçirirken, her adımda ekibi bilgilendiriyor ve süreci kademeli olarak uyguluyorum. Böylece, beklenen direnç minimuma iniyor ve dönüşüm daha sağlıklı gerçekleşiyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "613.10s"
+  },
+  {
+    "question": "Yoğun iş temposunda kişisel ve ekip bazında nasıl motivasyon sağlıyorsunuz?",
+    "answer": "Yoğun tempoda, düzenli aralıklarla yapılan değerlendirme toplantıları, kişisel hedef belirleme seansları ve başarıların paylaşılması motivasyonu artırıyor. Her bireyin önemli olduğunu hissettirmek, hem kişisel hem de ekip bazında motivasyonu sürekli canlı tutuyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "1337.21s"
+  },
+  {
+    "question": "Sürekli öğrenmenin liderlik üzerindeki etkisini nasıl değerlendiriyorsunuz? Öğrenmeye nasıl süreklilik kazandırıyorsunuz?",
+    "answer": "Liderlik, sürekli öğrenme ile mümkündür. Her yeni tecrübe, bilgi birikimime katkıda bulunuyor. Düzenli seminerler, eğitim programları ve mentorluk seansları, öğrenme sürecimizi destekliyor. Öğrendiklerimizi hemen uygulamaya koymak, teorinin pratiğe dönüşmesinde en önemli adımdır.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "1409.46s"
+  },
+  {
+    "question": "Kuantum bilgisayarların gelecekte liderlik ve iş dünyasına etkilerini nasıl değerlendiriyorsunuz?",
+    "answer": "Kuantum bilgisayarlar, veri işleme ve analiz süreçlerinde devrim yaratarak, stratejik karar alma süreçlerimizi kökten değiştirebilir. Gelecekte, mevcut yazılım dillerinden ve yönetim yöntemlerinden çok daha farklı yaklaşımlarla karşılaşmamız muhtemel. Bu nedenle, yenilikleri yakından takip edip, adaptasyon stratejilerimizi sürekli güncelliyoruz.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "1493.11s"
+  },
+  {
+    "question": "Beklenmedik kriz anlarında liderliğinizi nasıl ortaya koyuyorsunuz? Kriz yönetiminde hangi stratejileri uyguluyorsunuz?",
+    "answer": "Kriz anlarında soğukkanlı kalabilmek ve vazgeçmemek, liderliğin en önemli unsurlarındandır. Kriz sırasında, hızlı bilgi toplama, ekip içi koordinasyon ve alternatif planlarla hareket etmek kritik rol oynar. Önceden oluşturulan kriz senaryoları ve proaktif yaklaşımlar, ani durumlara hazırlıklı olmamızı sağlıyor.",
+    "source": "transcript_5_rHlebd_URWU.txt",
+    "speaker": "Konuk",
+    "time": "967.78s"
+  }
+]
+------------------------------------------------
+
+Not: Yukarıdaki soru–yanıt örnekleri, temizlenmiş transkriptte yer alan liderlik, inovasyon, dijital dönüşüm, ekip yönetimi, risk alma, şeffaflık ve sürekli öğrenme temalarından yola çıkarak hazırlanmıştır. Her bir soru, ilgili konuşmanın akışından esinlenmiş olup koçluk yaklaşımında rehber ve pratik öneriler içermektedir.
+2025-03-13 09:48:05,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:48:05,412 - ERROR - transcript_1_JQhkbN75Ohs.txt için JSON parse hatası. Ham çıktı: Aşağıda önce transkripti düzenleyip konuşmacıları doğal, akıcı bir hale getirdim; ardından bu metne dayalı olarak liderlik konularında ilham verici soru–cevap setini (JSON formatında) oluşturdum.
+
+─────────────────────────────  
+1. Temizlenmiş ve Ayrılmış Konuşma Listesi
+
+Time: 13.09s – Sunucu:  
+“Herkese merhaba, bugün teyze konuşuyor.”
+
+Time: 16.57s – Sunucu:  
+“Konum Ayşe. Hoş geldiniz.”
+
+Time: 19.92s – Sunucu:  
+“Programa, okuldan daha önce tanıdığım arkadaşlar da katılmış.”
+
+Time: 23.56s – Sunucu:  
+“Lütfen, bugün çalıştığımız İstanbul Altın Rafinerisi’nden bahsedeceğiz.”
+
+Time: 33.07s – Konuk:  
+“Ben, İstanbul Altın Rafinerisi’nin Tepe Yöneticisi ve Yönetim Kurulu Başkanı olarak, altının madenden çıkarılması, geri dönüşüm ve rafinasyon süreçlerini anlatacağım. Altın, madenlerden çıkarıldıktan sonra doğrudan işlenmediği sürece günlük hayatta kullanılamaz; bu yüzden rafinasyon kritiktir.”
+
+Time: 73.10s – Konuk:  
+“Altın, madenlerin yan ürünü şeklinde ortaya çıkar. Hurdadan gelen altın da, sanayiye giden materyaller arasında yer alır. Hem çıkarıldığı hammadde hem de hurdadan getirilen altın, rafinasyon sürecinden geçerek saf ve kullanıma hazır hale gelir.”
+
+Time: 110.27s – Konuk:  
+“Madenden çıkan altının, rafine edilmeden gerçek değeri oluşmaz. Yani, doğrudan çıktığı haliyle altın günlük yaşamda verimli bir şekilde kullanılamaz.”
+
+Time: 121.70s – Konuk:  
+“Madende, altın içeren materyal çeşitli proseslerden geçirilir; madenlerdeki karışımın içindeki mineraller yoğunlaştıkça, altın değer kazanır.”
+
+Time: 147.78s – Konuk:  
+“Topraktan çıkan materyal önce madende arıtılır, sonrasında metalik forma gelmesi için çeşitli kimyasal ve elektrolitik işlemler uygulanır.”
+
+Time: 235.30s – Konuk:  
+“Ürettiğimiz altın, örneğin 24 ayar olarak garantilendikten sonra bankaların kabul ettiği standartlara uygun şekilde hazırlanır. Bu, altının yatırım aracı olarak da değerlendirilmesini sağlar.”
+
+Time: 265.34s – Konuk:  
+“Gram altın üretiminde, küçük gramajlardan başlayarak çeşitli oranlarda ürünler elde ediyoruz. İstanbul Altın Rafinerisi, Türkiye’de bu alanda ilk çıktığımız örnek konumunda yer alıyor.”
+
+Time: 299.54s – Konuk:  
+“Altın, bankalara mevduat hesabı olarak da yansıyabiliyor. Çalıştığımız sistem, altını hem finansal hem de ekonomik açıdan değerlendiriyor.”
+
+Time: 408–426s (özlü anlatım) – Konuk:  
+“Altın çıkarma maliyetleri, madenin verimliliğine ve işlem sürecinin karmaşıklığına bağlı olarak değişiyor. Bu durum, uluslararası piyasadaki fiyatları doğrudan etkiliyor.”
+
+Time: 460.52s – Konuk:  
+“Tüm süreçlerde teknolojik gelişme ve kimyasal işlemlerin yer alması, verimlilik ve kaliteyi artırmak açısından büyük önem taşıyor.”
+
+Time: 476.71s – Konuk:  
+“Bankalarla yaptığımız anlaşmalar sayesinde, her bir gram altının uluslararası standartlara uygunluğu ve değeri tespit edilebiliyor.”
+
+Time: 613.10s – Konuk:  
+“Dünya genelinde altının kalitesini belirleyen akreditasyon ve uluslararası standartlar, üretim sürecimizde de esas alınan kriterler arasında yer alıyor.”
+
+Time: 680.58s – Konuk:  
+“Üretim sırasında altın, çeşitli plakalar halinde alınabiliyor; küçük kuyumcuların da kullanabileceği şekilde işlenebiliyor. Bu sistem, ürünün kullanım alanlarını genişletiyor.”
+
+Time: 703.68s – Konuk:  
+“Altın, mücevher üretiminde gümüş gibi diğer metallerle karıştırılarak farklı ayarlarda ürünlere dönüştürülüyor.”
+
+Time: 718.44s – Konuk:  
+“Globalleşmenin etkisiyle teknolojide yaşanan gelişmeler ve tüketici davranışları, altının fiyatını ve piyasadaki hareketliliğini etkiliyor.”
+
+Time: 752.41s – Konuk:  
+“Altının piyasadaki değeri, dolar ve petrol fiyatı gibi parametrelerle bağlantılı olarak sürekli değişiyor. Ekonomik–siyasal gelişmeler bu dalgalanmaları belirliyor.”
+
+Time: 837.32s – Konuk:  
+“İş süreçlerimizi yüksek kalite ve verimlilik esasına göre yürütmek, yönetim ve ekip çalışması açısından büyük önem taşıyor.”
+
+Time: 967s (özlü ifade) – Konuk:  
+“Üretimde bireyselliğe yer verse de, süreçlerimiz denetime tabi. Ekip arasında güvenin sağlanması kadar, sistematik kontrol de kritik rol oynuyor.”
+
+Time: 1033.08s – Konuk:  
+“Sanayi dalında uzun yıllara dayanan tecrübem, ekip yönetimi ve liderlik anlayışımı şekillendirdi. Birlikte çalıştığımız ekibin sinerjisi, her işin başarısında etkili oluyor.”
+
+Time: 1070.55s – Konuk:  
+“Başarılı bir liderlik süreci, çalışanlarla kurulan sağlam iletişim, güven ve takım ruhuna dayanır. Bu anlayış, verimliliği artırır.”
+
+Time: 1081.02s – Konuk:  
+“Endüstride kadın liderlerin sayısının azlığı, konuya daha fazla odaklanılması gerektiğini gösteriyor. Kadın yönetici sayısının artması, sektöre farklı bir dinamizm katacaktır.”
+
+Time: 1139.26s – Konuk:  
+“Çalışanlarımızın kariyerlerini destekleyip, onların önünü açmak; şirketimizin gelecek vizyonunu güçlendiriyor.”
+
+Time: 1169.35s – Konuk:  
+“Üretim ve laboratuvar gibi teknik alanlarda kadınların varlığı, ekibimize farklı bir bakış açısı kazandırıyor.”
+
+Time: 1191.29s – Konuk:  
+“Yoğun çalışma ve denetim gerektiren bu sektörde, bireysellik ile ekip uyumunu dengelemek büyük önem taşıyor.”
+
+Time: 1200.41s – Konuk:  
+“Kız çocuklarının ve genç kadınların eğitimle desteklenmesi, geleceğin liderlerini oluşturmak adına çok kıymetlidir.”
+
+Time: 1231.23s – Konuk:  
+“Ailem, liderlik yolculuğumda bana en büyük ilhamı veren kaynaklardan biri oldu.”
+
+Time: 1265.99s – Konuk:  
+“Eğitim ve aile desteği sayesinde, her türlü zorluğun üstesinden gelebileceğime inanıyorum.”
+
+Time: 1290.12s – Konuk:  
+“Hayatta en değerli şeyler; deneyimler, sevdiklerimiz ve içten gelen mutluluktur. Bu değerler, her gün bana ilham veriyor.”
+
+Time: 1306.21s – Konuk:  
+“Ekip çalışması, dostluk ve güven esasına dayalı; birlikte yürüttüğümüz projelerde bu değerler ön plana çıkıyor.”
+
+Time: 1329.31s – Konuk:  
+“Zaman içinde edindiğim tecrübeler, profesyonel gelişimimde ve liderlik vizyonumda temel taşları oluşturdu.”
+
+Time: 1343.12s – Konuk:  
+“Yaşamın dönüm noktalarında, beklenmedik fırsatlar ve deneyimler insana yeni kapılar açar.”
+
+Time: 1356.56s – Konuk:  
+“Altın sektöründe yaşadığım her deneyim, bana yeniliklere açık olmayı ve sürekli öğrenmeyi öğretti.”
+
+Time: 1367.62s – Konuk:  
+“Yönetim tarzım; takım ruhu, sürekli öğrenme ve hatalardan ders çıkarma üzerine kurulu. Her yeni süreç farklı bir deneyim sunuyor.”
+
+Time: 1378.46s – Konuk:  
+“Kişisel hayatımda kayıplar ve zorluklar, yoluma devam edebilmem için bana ilham verdi.”
+
+Time: 1395.89s – Sunucu:  
+“Peki, bundan sonra neler yapmayı düşünüyorsunuz? Konuklarımıza soruyorum.”
+
+Time: 1400.55s – Sunucu:  
+“Geleceğe yönelik planlarınız nedir? Nasıl bir yol haritası çizmek istiyorsunuz?”
+
+Time: 1402.85s – Konuk:  
+“Sektörümüzde, İnşaat ve Yapı alanındaki yenilikleri ve altın sektöründe kadın girişimciliğini destekleyen projeler yürütüyoruz.”
+
+Time: 1413.26s – Konuk:  
+“Şirket olarak, Allah ömür verdikçe bu iş sürecine devam ediyoruz. Büyük bir holdingin parçası olarak, mevcut projelerimizi değiştirmeden sürdürüyor, yenilik ve kaliteye odaklanıyoruz.”
+
+Time: 1430.22s – Konuk:  
+“Büyük yapılar içinde çalışıyor olmamız, enerjimizi ve dönüşümü sürekli canlı kılıyor. Süreçlerimizi geliştirerek sektöre öncülük ediyoruz.”
+
+Time: 1442.04s – Konuk:  
+“Kendimi hiperaktif ve karakterli biri olarak tanımlıyorum; iş ortamında bu özelliklerim, takım arkadaşlarım arasında liderlik ruhunu besliyor. Boş zaman bulmak zor olsa da, enerjim her daim yüksek.”
+
+Time: 1470.94s – Konuk:  
+“Gerçek benliğimin görülmesinde, iletişim ve ekip uyumuna verdiğim önem ön plana çıkıyor.”
+
+Time: 1484.74s – Konuk:  
+“Sosyal yaşamımda dostlarım, ailem ve iş dışı aktiviteler arasında dengeyi sağlamak, motivasyonumu artırıyor.”
+
+Time: 1511.65s – Konuk:  
+“Ayrıca, sosyal sorumluluk projeleriyle hem topluma hem de çalışanlarımızın ruhuna dokunmaya çalışıyoruz.”
+
+Time: 1533.23s – Konuk:  
+“Kurumsal çalışmalarda iyiliğin ve güzelliğin kapıları açıldığında, ekip olarak birbirimize daha sıkı bağlanıyoruz.”
+
+Time: 1561.03s – Sunucu:  
+“Değerli izleyiciler, bugün burada keyifli ve öğretici bir sohbet gerçekleştirdik.”
+
+Time: 1571.15s – Sunucu:  
+“Konuşmamıza önümüzdeki hafta devam edeceğiz. Sağlıcakla kalın.”
+
+─────────────────────────────  
+2. Liderlik Koçluğu Soruları ve Yanıtları (JSON Formatında)
+
+Aşağıdaki liste, transkriptten yola çıkarak ekip yönetimi, motivasyon, yenilikçilik, risk alma, şeffaflık, kadın liderlik, öğrenme kültürü ve sosyal sorumluluk gibi temalara odaklanan soru–cevap önerileridir. Her bir soru, samimi ve profesyonel koçluk yaklaşımını yansıtmakta; yanıtta pratik öneriler sunulmaktadır. "source" değeri olarak orijinal dosya adı; konuşmacı ise çoğunlukla konuk (liderlik tecrübelerini paylaşan kişi) olarak belirtilmiştir.
+
+[
+  {
+    "question": "Ekibinizi yönetirken güven ve takım ruhunu oluşturmak için hangi prensiplere önem veriyorsunuz?",
+    "answer": "Ekip içinde sağlam iletişim, şeffaf süreçler ve sürekli geri bildirim mekanizmaları kurmanın, güven temelli bir yönetimin anahtarı olduğuna inanıyorum. Bu sayede ekip üyeleri birbirlerine destek oluyor ve ortak hedefe yürüyorlar.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "1033.08s"
+  },
+  {
+    "question": "Altın rafinerisi gibi zorlu ve riskli sektörlerde, alınması gereken riskleri nasıl belirliyorsunuz?",
+    "answer": "Sürekli analiz ve süreç değerlendirmeleri yaparak, olası riskleri önden tespit ediyoruz. Ekibinize risk yönetimi konusunda güven aşılamak ve küçük denemelerle süreçleri iyileştirmek, lider olarak en önemli stratejilerim arasında yer alıyor.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "408.00s–426.00s"
+  },
+  {
+    "question": "Piyasanın dalgalandığı dönemlerde, motivasyonunuzu ve ekibinizin motivasyonunu nasıl sağlıyorsunuz?",
+    "answer": "Ekibimle sürekli iletişim halinde olmak, başarılara odaklanarak ileriye bakmak ve her zorluğun bir öğrenme fırsatı olduğunu hatırlatmak, motivasyonumuzu canlı tutuyor. Bu yaklaşım, dalgalı piyasalarda bile moral ve dayanışmayı güçlendiriyor.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "752.41s"
+  },
+  {
+    "question": "Çalışanlar arasında ‘denetime tabi’ bir yapıyı benimserken, aynı zamanda bireyselliği nasıl değerlendiriyorsunuz?",
+    "answer": "Sistematik denetimle birlikte, çalışanların bireysel yetkinliklerini de ortaya koyabilecekleri esnek bir ortam oluşturuyorum. Güven ve sorumluluk bilinci ile, her bireyin güçlü yanını desteklemek hem verimliliği hem de yaratıcılığı artırıyor.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "967.00s"
+  },
+  {
+    "question": "Altın sektöründe, azınlıkta olan kadın liderlerin rolü konusunda nasıl bir vizyona sahipsiniz?",
+    "answer": "Kadınların sektörümüzde daha görünür olması, farklı bakış açılarıyla yeniliği tetikler. Kadın liderlerin, stratejik düşünce ve empati yetenekleriyle ekibe kattığı değeri artırmak için eğitim ve fırsat eşitliği sağlamak temel hedefimizdir.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "1081.02s"
+  },
+  {
+    "question": "Yenilik ve teknolojiyle uyum sağlamak, liderlik anlayışınızı nasıl şekillendiriyor?",
+    "answer": "Teknolojiyi ve uluslararası standartları yakından takip etmek, süreçlerimizi hem hızlandırıyor hem de kalitemizi artırıyor. Yenilikçi yaklaşım, ekibin sürekli öğrenmesini ve yaratıcı çözümler üretmesini sağlıyor.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "613.10s"
+  },
+  {
+    "question": "Üretim süreçlerinde verimliliği artırmak için hangi stratejileri kullanıyorsunuz?",
+    "answer": "Süreç optimizasyonu ve teknolojik yenilikleri entegre etmek, verimliliği artırmak için en etkili yöntemlerden. Planlı iyileştirmeler ve ekip içinde sürekli gelişim kültürünü teşvik etmek, operasyonel başarının anahtarıdır.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "837.32s"
+  },
+  {
+    "question": "Çalışanlarınızın kariyer gelişimini desteklemek için ne tür fırsatlar sunuyorsunuz?",
+    "answer": "Kariyer gelişimini desteklemek, hem bireysel hem de kurumsal başarının temelidir. Eğitim programları, mentorluk ve projelerde sorumluluk paylaşımının yönetime katkı sağladığını düşünüyorum.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "1139.26s"
+  },
+  {
+    "question": "Başarısızlıklardan öğrenme kültürünü nasıl teşvik ediyorsunuz?",
+    "answer": "Her hata, gelişme için bir fırsat olarak görülmeli. Açık iletişim, hata analizleri ve çözüm odaklı toplantılar düzenleyerek, ekibin her tecrübeden güç almasını sağlıyorum.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "1367.62s"
+  },
+  {
+    "question": "Dalgalı piyasalarda risk alırken ekibinizi nasıl motive ediyor ve yönlendiriyorsunuz?",
+    "answer": "Risk almanın gerekliliğini ve bunun getirdiği öğrenme süreçlerini ekiple paylaşıyoruz. Küçük denemelerle başlayan uygulamalar, zamanla büyük başarılara dönüşüyor. Ekibimizi sürekli bilgilendirip, başarı hikayelerini öne çıkararak motivasyonu yüksek tutuyorum.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "752.41s"
+  },
+  {
+    "question": "Yoğun ve denetimli süreçler arasında ekip uyumunu nasıl sağlıyorsunuz?",
+    "answer": "Sistematik denetim kadar, ekip içindeki samimi iletişime ve bireysel katkılara da önem veriyorum. Düzenli toplantılar ve açık geri bildirim seansları, hem hataları minimize ediyor hem de ekip arkadaşlarını birbirine kenetliyor.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "967.00s"
+  },
+  {
+    "question": "Sosyal sorumluluk projeleriyle liderlik vizyonunuzu nasıl destekliyorsunuz?",
+    "answer": "Kurumsal sosyal sorumluluk projeleri, topluma geri dönmenin yanı sıra ekip içindeki dayanışmayı ve aidiyet duygusunu güçlendirir. Bu projelerde yer almak, çalışanların motivasyonunu artırır ve liderliğe insani bir boyut katar.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "1511.65s"
+  },
+  {
+    "question": "Uluslararası standartlara uyum sağlamak, liderlik anlayışınızı nasıl etkiliyor?",
+    "answer": "Global arenada rekabet edebilmek, sürekli inovasyon ve kaliteyi gerektirir. Uluslararası standartları yakından takip etmek, süreçlerimizi sürekli güncellememize olanak tanıyor, böylece ekibimle birlikte yenilikçi ve sürdürülebilir yaklaşımlar geliştirebiliyoruz.",
+    "source": "transcript_1_JQhkbN75Ohs.txt",
+    "speaker": "Konuk – İstanbul Altın Rafinerisi Başkanı",
+    "time": "613.10s–658.70s"
+  }
+]
+
+─────────────────────────────  
+Not: Yukarıda düzenlenmiş transkriptteki zaman damgaları, orijinal kayıttan doğrudan alınmış durumda; soru–cevap örnekleri ise ilgili konuların işlendiği bölümlere yakın zaman aralıklarını yansıtmaktadır.  
+Bu yapı, liderlik koçluğu görüşmelerinde tartışabileceğiniz konular, yönetime dair ilham verici sorular ve pratik öneriler içermektedir.
+2025-03-13 09:48:34,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:48:34,367 - ERROR - transcript_7_cPjxDJi-_DM.txt için JSON parse hatası. Ham çıktı: Aşağıda önce transkript temizlenmiş ve konuşmacılara ayrılmış; ardından liderlik koçluğu temalarından esinlenerek hazırlanan 13 soru–yanıt çifti JSON formatında sunulmuştur.
+
+─────────────────────────────  
+Aşama 1: Transkripti Temizle ve Konuşmacıları Ayır
+
+Aşağıdaki liste, yaklaşık 22 dakikalık (1320 saniye) video için konuşmaların eşit aralıklarla (ortalama yaklaşık 73 saniyede bir) yer aldığı varsayımıyla düzenlenmiştir.
+
+1. Time: 0.00s Sunucu:  
+   "Hasanır Gökfleşi Regun Recep, askerde aynı takımda olmanın değeri vurgulanıyor. Şimdi Atifesi, yıllardır konferanslar vererek gelecek vizyonunu izleyicilere aktarıyor ve bu konuda farkındalık yaratmaya çalışıyor."
+
+2. Time: 73.00s Konuk:  
+   "Futurizm derneğinin başkanlığını yürüttüğün yıllara değiniliyor. Futurist olmak için trendleri bilmek, hakim olmak, belirli bir konuyu seçmek, ileriye dönük öngörüler geliştirmek, bilimsel çalışmalar yapmak, bol okumak ve olumlu düşünmek şart. Bu yaklaşım, Hollywood’un korku hikayelerinden ziyade pozitif bir geleceği hayal edip gerçekleştirme ruhunu yansıtıyor."
+
+3. Time: 146.00s Sunucu:  
+   "Teknolojiye ve mühendisliğe dair sorular yöneltiliyor. Elektronik mühendisliği ile ilgili kariyer yolculuğundan ve teknolojiyi ne zaman, nasıl benimsediğinden bahsediliyor. İnsanların Tıp ve mühendislik alanındaki tercihleri ile ilgili örnekler veriliyor; IBM’de otuz yıl geçirmiş olman da bunun bir parçası olarak aktarılıyor."
+
+4. Time: 219.00s Konuk:  
+   "Günümüz futurizm anlayışı, eskiden Asimov okumaya bağlı beklentilerden çok, sürekli değişen ve artan kaynaklarla şekilleniyor. IBM’de oluşturulan sistemler sayesinde günlük verilerin takibi, bireysel performansların ölçümü ve öngörüde bulunmak mümkün hale geliyordu; hatta kısa süreli planlamalar yaparak insanlara yön gösterebiliyordum."
+
+5. Time: 292.00s Konuk:  
+   "Futurist yaklaşımda, uzun vadeli planlamanın, metodolojinin ve öngörü çalışmalarının önemine değindik. Ancak kişisel olarak zamanlama ve net değerlendirme konularında, ekonomistlerin uyguladığı yaklaşımla kıyaslandığında zorlanmalar yaşadığımı itiraf ediyorum."
+
+6. Time: 365.00s Konuk:  
+   "Eskiden teknoloji, Google ve erken dönem televizyon teknolojileri üzerinden konuşulurken; bugünün dünyasında cep telefonları, hızlı gelişen cihazlar ve sürekli yenilenen sistemler geleceğe dair beklentileri tamamen değiştirdi. Önümüzdeki kırk yıl, bu hızla çarpan teknolojik gelişmelerle oldukça uçuk bir gelecek sunuluyor."
+
+7. Time: 438.00s Konuk:  
+   "Nesnelerin interneti ve akıllı sistemler, artık her objenin birbirleriyle iletişim kurabilmesi fikrini doğurdu. Avrupa’da sürücüsüz araçların karar mekanizması üzerine tartışmalar var; bu sistemlerde genç ya da yaşlı bireylerin nasıl etkileneceği konusunda fikir ayrılıkları yaşanıyor."
+
+8. Time: 511.00s Konuk:  
+   "Geleneksel sürücüsüz araç yaklaşımlarının ötesinde, alt yapının tamamen değişeceği ve araçların artık ‘sahipsiz’, enerjisiz sistemlere dönüşeceği öngörülüyor. Bu yeni yaklaşım, ulaşım sistemlerini kökten değiştirecek."
+
+9. Time: 584.00s Sunucu:  
+   "Haftalık program konularına değinirken, üniversite ve kurumlardan gelen sorularda en çok seni eğlendirenin robotik ve yapay zeka alanında 8-14 yaş arası çocuklarla yapılan etkinlikler olduğunu hatırlatıyorsun. Çocukların enerjisi ve merakı, ilham verici bir örnek olarak aktarılıyor."
+
+10. Time: 657.00s Sunucu:  
+    "Çocuk etkinliklerinde kitap okumanın ve hikaye anlatımının önemi vurgulanıyor. Sokaklardan, denizden veya köyden aldıkları ilhamla, gençlerin hayal gücünü harekete geçiren anlatım örnekleri izleyiciyle paylaşılıyor."
+
+11. Time: 730.00s Sunucu:  
+    "Üniversitelerden, arka plandan gelen ve ekran karşısında sorulan robotlar ile yapay zekanın işleri ele geçireceği öngörüsüne dair sorularda, önce iş bulmanın ve pratik çözüm yollarının önemine değindiğin anekdotlar veriliyor. Ayrıca genç girişimcilerin tecrübeleri ve başarısızlık nedenleri tartışılıyor."
+
+12. Time: 803.00s Sunucu:  
+    "Konuşmalar sırasında, çekingen sorulardan ve 29-30 senelik tecrübelerden yola çıkarak; gençlerin bu alandaki öğrenme ve gelişim süreçlerinden neler çıkarabileceğine dair örnekler veriliyor. Gençlerle iletişim ve deneyim paylaşımı ön plana çıkarılıyor."
+
+13. Time: 876.00s Konuk:  
+    "Otomasyon ve yapay zekanın mevcut iş modellerine yönelik tehditleri ortaya konuyor. Bugün sahip olunan beceriler bile kısa sürede yerini yitirebilir. Türkiye’de önümüzdeki dönemde 9 milyon yeni iş yaratılırken, halen var olan işlerin 7-8 milyonunun kaybolma riski olduğu öngörülüyor."
+
+14. Time: 949.00s Sunucu:  
+    "Değişim korkusunun sadece belli yaş gruplarına mı özgü olduğu, yoksa genel bir kaygı mı oluşturduğu soruluyor. Yeni teknolojik güçlerin getirdiği belirsizlik ve riskler hakkında düşünceler paylaşılıyor."
+
+15. Time: 1022.00s Konuk:  
+    "Değişime direnen yok; her seviyeden yönetici ve çalışan aslında değişime ayak uydurmaya çalışıyor. Ancak kimse, değişimin bir başkası tarafından zorla uygulanmasını istemiyor. Kendi kendimizi yenilemezsek, sistemler bizi zorla dönüştürecek."
+
+16. Time: 1095.00s Konuk:  
+    "İzleyici kitlesi, gençlerle deneyimli olanlar arasında köprü kurabilmek açısından çok önemli. Eskiden aile büyüklerinin kullandığı araçlar yerini, bugün akıllı telefonlar gibi cihazlara bıraktı. Bu geçiş, gelecek vizyonunun ve teknolojiye uyum sağlama biçiminin somut bir örneğini oluşturuyor."
+
+17. Time: 1168.00s Konuk:  
+    "Akıllı telefonların evrimi, beyin projeleri gibi ileri teknolojik girişimlerle paralel ilerliyor. Dünyada çeşitli beyin projeleri çalışıyor; özellikle Çin’de yürütülen projeler, yaşam süresinin uzamasına dair yeni yaklaşımları gündeme getiriyor."
+
+18. Time: 1241.00s Konuk:  
+    "Son olarak, yapay zeka ve etik tartışmaları ile mühendislik eğitiminin eksiklikleri konu alınıyor. Hızlı karar verme, etkili iletişim ve multidisipliner yaklaşımların önemi vurgulanırken, Eray gibi isimlerin katkısıyla gelecek üzerine umut verici ve ilham kaynağı sohbetler yapıldığını belirtiyorum. Sohbet buradan son buluyor, ancak ileride tekrar derinlemesine konuları ele alacağız. Hoşça kalın."
+
+─────────────────────────────  
+Aşama 2: Liderlik Koçluğu Soruları ve Yanıtları (JSON Formatında)
+
+Aşağıdaki 13 soru–yanıt çifti, transkriptin içindeki liderlik ve geleceğe dair temalar (ileriye dönük öngörü, değişim yönetimi, risk alma, motivasyon, ekip iletişimi, sürekli öğrenme, etik ve geleceğe adaptasyon) göz önünde bulundurularak hazırlanmıştır. Her birinin kaynak zaman damgası, cevap veren (genellikle Konuk) ve kaynak dosya adı belirtilmiştir.
+
+JSON Çıktısı:
+------------------------------------------------
+[
+  {
+    "question": "Futurist lider olabilmek için trendleri takip etmek ve öngörü geliştirmek neden önemlidir?",
+    "answer": "Futurist olmak, sürekli değişen dünyada geleceğe dair doğru tahminlerde bulunabilmek için trendleri yakından takip etmek, bilimsel çalışmalar yaparak derinlemesine bilgi sahibi olmak ve olumlu bir bakış açısıyla geleceği hayal edebilmekten geçer. Bu yaklaşım, belirsizlikleri fırsata çevirebilmenizi sağlar.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "73.00s"
+  },
+  {
+    "question": "Elektronik mühendisliği ve teknolojiye erken yaşlarda ilgi duymanız, kariyerinizde nasıl bir avantaj sağladı?",
+    "answer": "Erken yaşlardan teknolojiye yönelmek, bilgi temellerini sağlamlaştırarak karmaşık sistemleri kavramada büyük avantaj sağladı. Deneyimlerim, teknik bilgi ve pratik uygulamaların birleşiminin, inovatif düşünceyi desteklediğini gösteriyor.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Sunucu",
+    "time": "146.00s"
+  },
+  {
+    "question": "IBM’de kurduğunuz sistemlerle gündelik verilerin takibini yapabilmek, liderlik ve ekip yönetiminde nasıl faydalar sağladı?",
+    "answer": "Veri analizi ve performans ölçümü, ekip üyelerinin güçlü ve geliştirilmesi gereken yönlerini daha net ortaya koydu. Bu sayede, stratejik kararlar alırken herkesin bireysel potansiyelini en iyi şekilde yönlendirebildik.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "219.00s"
+  },
+  {
+    "question": "Uzun vadeli planlama ve metodolojiyi oluştururken, zamanlama konusundaki zorluklarla nasıl başa çıkıyorsunuz?",
+    "answer": "Planlama sürecinde detaylı araştırmalar ve esnek stratejiler uyguluyorum. Ekonomistlerin yaklaşımlarından ilham alsam da, belirsizlikleri yönetebilmek için önceden belirlenmiş hedeflere ulaşmada esneklik en önemli unsurlar arasında yer alıyor.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "292.00s"
+  },
+  {
+    "question": "Hızla değişen teknolojik gelişmeler karşısında lider olarak risk almayı nasıl değerlendiriyorsunuz?",
+    "answer": "Teknoloji hızla evrilirken risk almak, gerekli bir adım. Ancak riskler iyi analiz edildikten sonra,, doğru stratejiler ile lider olarak bu belirsizlikleri fırsata çevirebiliriz. Bu süreç, takımın güvenliği ve yeniliğe adaptasyonu için de kritik öneme sahiptir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "365.00s"
+  },
+  {
+    "question": "Nesnelerin interneti ve sürücüsüz araçların alt yapıyı değiştireceği paradigmada, liderlerin rolü nedir?",
+    "answer": "Yeni altyapı ve akıllı sistemlere geçiş, liderlerin teknolojik trendleri iyi takip edip, gerekli stratejileri belirlemesini gerektiriyor. Çalışanları bu dönüşüme hazırlamak, değişime direnç göstermeden adaptasyonu sağlamak kritik liderlik yeteneklerinden biridir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "438.00s"
+  },
+  {
+    "question": "Çocuk ve gençlerle yapılan etkinliklerde hikaye anlatımının liderlik üzerindeki etkisini nasıl değerlendiriyorsunuz?",
+    "answer": "Gençlerle yapılan etkileşimler, onların hayal gücünü harekete geçirmenin yanı sıra, geleceğe dair vizyonlarını şekillendiriyor. Hikaye anlatımı, esin kaynağı olurken, liderlik – doğru yönlendirme ve motive etme – için de temel bir araçtır.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Sunucu",
+    "time": "584.00s"
+  },
+  {
+    "question": "Otomasyon ve yapay zekanın iş dünyasını dönüştüreceği öngörüsü, lider olarak ne gibi stratejiler geliştirmeyi gerektirir?",
+    "answer": "Gelecekte iş modellerinin hızla değişeceğini göz önüne alarak, sürekli yenilikçi çözümler üretmek, çalışanları sürekli eğitmek ve teknolojik adaptasyonu sağlamak önemli. Bu, ekip içinde sürekli gelişimi ve risklere karşı esnek stratejileri içerir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "876.00s"
+  },
+  {
+    "question": "Yeni teknolojilerin getirdiği belirsizlik karşısında, değişim korkusunu nasıl aşarsınız?",
+    "answer": "Değişimin kaçınılmaz olduğunu kabul etmek, ekip üyelerini sürekli yeniliklere hazırlamak temel adımdır. Lider olarak, net iletişim, şeffaflık ve sürekli eğitimle bu korkuları minimize etmek ve değişimi fırsata çevirmek mümkündür.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Sunucu",
+    "time": "949.00s"
+  },
+  {
+    "question": "Kendini sürekli yenilemediğin takdirde, dışsal baskılar ve teknolojik değişim sizi nasıl etkiler?",
+    "answer": "Eğer liderler ve ekip üyeleri kendilerini sürekli yenilemezse, dışarıdaki değişimler zorlayıcı olabilir. Bu sebeple, sürekli öğrenme, adaptasyon ve proaktif stratejiler geliştirerek, dış etkilere karşı direnç oluşturmamız gerekir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "1022.00s"
+  },
+  {
+    "question": "Gelecek vizyonunu oluştururken, farklı kuşaklar arasında nasıl bir köprü kurabilirsiniz?",
+    "answer": "Gençlerin enerjisi ve olgun deneyimlerin birleşimi, dengeli bir gelecek vizyonu oluşturur. Her iki grubun da sesini duymak ve ortak bir dil geliştirmek, inovasyonun ve sürdürülebilir liderliğin temelidir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "1095.00s"
+  },
+  {
+    "question": "Yeni teknolojiler, veri güvenliği ve etik konularında lider olarak hangi adımları atmalısınız?",
+    "answer": "Bilgi güvenliği ve etik, teknolojinin hızlı evriminde öncelikler arasında yer almalıdır. Bu alanda, şeffaf politikalar geliştirmek, çalışanları etik standartlar konusunda bilgilendirmek ve teknolojik gelişmeleri yakından takip etmek gereklidir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "1168.00s"
+  },
+  {
+    "question": "Mühendislik eğitiminin eksik yönleri ve hızlı karar verme gerekliliği, liderlik anlayışınızı nasıl şekillendiriyor?",
+    "answer": "Mühendislik eğitiminin analitik yönü güçlü olsa da, iletişim, psikoloji ve sosyoloji gibi alanlardan da beslenmek gerekir. Bu multidisipliner yaklaşımla, ekip içinde daha iyi iletişim kurmak ve hızlı, doğru kararlar almak mümkün hale gelir.",
+    "source": "transcript_7_cPjxDJi-_DM.txt",
+    "speaker": "Konuk",
+    "time": "1241.00s"
+  }
+]
+------------------------------------------------
+
+Yukarıdaki içerikte önce temizlenmiş, akıcı ve konuşmacılara göre ayrılmış transkript yer almaktadır. Sonrasında ise liderlik temalarına dair, doğal ve ilham verici 13 soru–yanıt çifti, koçluk yaklaşımını ve pratik önerileri içerecek şekilde düzenlenmiştir.
+2025-03-13 09:48:51,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 09:48:51,614 - ERROR - transcript_2_1PHoWJl6zNk.txt için JSON parse hatası. Ham çıktı: Aşağıda önce transkripti, konuşmacıların net ve akıcı ifadeler kullanılarak düzenlenmiş; ardından transkriptteki liderlik temalarına dayalı, her biri ilham verici sorular–yanıtlar içeren JSON formatında Liderlik Koçluğu Soruları yer almaktadır.
+
+──────────────────────────────
+1. Temizlenmiş ve Ayrılmış Konuşma Listesi
+──────────────────────────────
+(Orijinal dakikalar korunmuş; konuşmacı atamaları bağlam göz önünde tutularak yapılmıştır.)
+
+Time: 13.09s Sunucu: "Herkese merhaba, ben Hilmi Güvenal."
+Time: 15.52s Sunucu: "Tecrübelerime dayanarak bu bölümde konuşuyorum."
+Time: 17.77s Sunucu: "Hakan Güldağ, hoş geldin; hoş bulduk Hakan."
+Time: 21.01s Sunucu: "Güldağ; 35 yıllık gazetecilik deneyimin var."
+Time: 26.53s Sunucu: "4MT’lik program yapıyorsun, ayrıca ihracatla ilgili kendi programın da var."
+Time: 32.68s Sunucu: "Doğru, 'Hedef İhracat' adlı programın mevcut."
+Time: 34.66s Sunucu: "Ayrıca müracaat programı da var; son dönem ilginç bir şekilde arkadaşlarınla birlikte, dünya gazetesinde imza atıyorsunuz."
+Time: 42.07s Sunucu: "Yıllarca yönetimi devraldıktan sonra, arkadaşlarınla birlikte yayın haklarını satın aldınız. Bu sürecin gelişimini nasıl değerlendiriyorsun?"
+──────────────────────────────
+Time: 53.17s Konuk: "Olaylar başlangıçta kötüye gidiyordu; kriz neredeyse dayanılmazdı."
+Time: 61.57s Konuk: "Marşlarımızın ödenmediğini gördük."
+Time: 64.89s Konuk: "Medya sektöründe ciddi sıkıntılar yaşanıyordu."
+Time: 73.10s Konuk: "Çıkarma meselesinde; tabii ki insanlar çıkarılabiliyordu, ancak bunun hiçbir faydası olmadığını hiçbir yerde görmedim."
+Time: 80.33s Konuk: "Tevfik Ata’nın dönüşünden sonra belli sayıda insanı görevlendirmek mümkündü, ama ben hiçbir sonuca ulaşamadığımı gözlemledim."
+Time: 88.85s Konuk: "Sadece yurt dışında değil, birçok yerde çalıştım; buradan da yönetimle aramızda yaşanan sıkıntılar netleşti."
+Time: 102.11s Konuk: "Herkes elinden geleni yaptı; yönetimin de sınırları vardı. Açıkça söylemek gerekir ki, herkes bildiği gibi düzgün bir yapı oluşturmak istiyordu."
+Time: 127.81s Konuk: "Evet, ben ayrılmıştım; ama bir yandan da başka neler yapılabileceğini konuşuyorduk. Erken dönemden bugüne Vahap Munyar, Şeref Oğuz gibi arkadaşlarla fikir alışverişinde bulunduk."
+Time: 148.30s Konuk: "Üstlenen ink gazeteyi başka yatırımcıların satın alması gündeme geldi; başka yerlerde de satılacak seçenekler konuşuluyordu."
+Time: 160.69s Konuk: "Öneriler yaptık; ancak yerlerde tıkanma başladı. O süreçte herhangi bir sermaye grubuyla devreye girdik."
+Time: 190.84s Konuk: "Tazminatları, tüm borçları ele alabilsek diye tartıştık; ancak sonuç olarak gazetenin bu şekilde alınamayacağını benimsedik."
+Time: 214.66s Konuk: "Temsilcilerimiz – yazı işleri müdürü, yayın yönetmeni gibi – tazminatlarını yeni kurulan şirkete sermaye olarak koymalıydılar. Böylece borçsuz bir yapı yaratmaya çalıştık."
+Time: 233.81s Konuk: "Bu model, ilk etapta sempati yarattı; fakat iş dünyasında destek arayan yayın organı modeli, beklentileri tam karşılayamadı."
+Time: 260.30s Konuk: "4 Aralık’tan bu yana yeni bir yapı oluşturuldu; önceden 3 Aralık veya Kasım’da öğrendiğimiz nakit akışı gibi gerçekler, konuştuğumuz konulardan sadece biriydi."
+Time: 307.95s Konuk: "Okullar arasında yaptığımız araştırmalarda, bilginin kendisinin önemli olduğu, cesaretin esas olduğu sonucuna vardık."
+Time: 337.06s Konuk: "Gerçekten gazeteciliğin, bağımsızlık ve hürriyet taşımak zorunda olduğuna inanıyorum. Bağımsız gözlemci olmayan medyanın da asıl saygınlığı olamıyor."
+Time: 370.07s Konuk: "Dayanışma, yazılı basın ve teknoloji davranışları gibi konularda önemli tespitlerde bulunduk."
+Time: 407.76s Konuk: "Yerel basının da toparlandığını; A101 yazılı basının bile yaşamını sürdürdüğünü gözlemledim."
+Time: 445.29s Konuk: "Bizim için önemli olan, bilgiyi mecbur ulaştırabilmek; bunun yanında İsveç’te bile derslerin farkında olan uygulamalar vardı."
+Time: 457.30s Konuk: "Geleceğe ilişkin araştırmalar, 25 yaşındaki brokerlar üzerinde yapılan çalışmalar gibi, basılı ve dijital medyanın dönüşümüne ışık tuttu."
+Time: 508.37s Konuk: "Aboneliklerde yaşanan iniş çıkışlardan sonra, bazı kullanıcılara yeniden yönelmeye başladık."
+Time: 523.10s Konuk: "Meslektaşlarımızın hazırladığı yeni nesil sözlükle, Türkiye ekonomisinin kronolojisinin yanı sıra teknoloji ve yönetim terimlerine de aşina olduk."
+Time: 562.12s Konuk: "Dünya gazetesi organizasyonlarıyla her ay bir araya geliyor, ekonomistler ve işadamları buluşuyordu; bu işbirlikleri yavaş da olsa artıyordu."
+Time: 586.26s Konuk: "İnsanlar ancak birebir konuşmalar, doğrudan sorular ve net yanıtlar sayesinde durumu kavrayabiliyor."
+Time: 617.40s Konuk: "800 kişinin katıldığı toplantılar düzenlemeye başladık; bu interaktif toplantılar oldukça etkili oldu."
+Time: 664.84s Konuk: "Dünya gazetesinin ekonomik yayın olarak yeniden sahnede yer alması üzerine farklı bir yayın modeli düşünülüyor."
+Time: 688.37s Konuk: "40 yıllık tecrübemizle, çizgimizi bozmayacak, ancak yenilikçi adımlar atabilecek bir disiplin oluşturmayı hedefliyoruz."
+Time: 714.61s Konuk: "Daha derinlemesine konuları 360° bakış açısıyla ele alan, sadece ekonomiyle sınırlı kalmayan bir yayın modeli hayal ediyorum."
+Time: 728.41s Konuk: "Bu, hayatımızda doğrudan kullanabileceğimiz bilgileri paylaşan, ilham veren bir yayın olacak."
+Time: 751.01s Konuk: "Günümüzde birçok kişi, ya doğrudan ya da kitap aracılığıyla bu değişimi pozitif yönde nasıl çevirebileceğimizi sorguluyor."
+Time: 793.61s Konuk: "Toplantılarımızda, endişeleri de tartıştık; yine de genel olarak harekete geçtik."
+──────────────────────────────
+Time: 880.83s Sunucu: "Peki, senin böyle bir günde; en büyük bahtiyarlığın, yaptığın işlerde nasıl fark yaratıyorsun?"
+Time: 893.30s Sunucu: "Örneğin, bir editorial toplantısında okuyucunun takip ettiği kriterler hakkında ne düşünüyorsun? Hangi konulara girilmemeli?"
+Time: 937.26s Konuk: "Bence okuyucuların nabzını tutan düzenli araştırmalar var. Bu değerlendirmeleri göz önüne alarak, içeriklerde belli bir dengeyi korumaya çalışıyoruz."
+──────────────────────────────
+Time: 955.15s Konuk: "Başından beri tecrübeye ve sektörel dinamiklere dayalı kararlar aldık; bununla birlikte, piyasanın değişimlerine uyum sağlamak için sürekli strateji geliştirdik."
+Time: 1070.88s Konuk: "Lise, üniversite ve mesleki hayatın tüm geçirdiği süreç, insanın uzlaşmayı, tartışmayı ve ayakları üzerinde sağlam durmayı öğrenmesine vesile oldu."
+Time: 1147.98s Konuk: "Darüşşafaka’daki görevim, toplumun altından üstüne çıkarmayı hedefleyerek eğitimde fırsat eşitliğini sağlamanın önemini bana öğretti."
+Time: 1166.10s Konuk: "Zaman zaman liderlik yaptığım alanlarda, kararlarımı kendi omuzlarımda taşımanın gerekliliğini çok net bir şekilde hissettim."
+Time: 1234.05s Konuk: "Her zaman kendi kararlarımı vererek, bağımsız ve sağlam bir kişilik sergilemeye özen gösterdim."
+Time: 1271.88s Konuk: "Bazen yüzyüze, bazen telefonla, birlikte çalıştığım dostlarımla her şeyi paylaştık; çünkü gerçek dostluk ve yardımlaşma, başarının temelidir."
+Time: 1317.26s Konuk: "Özellikle bölge kültürünü, Rize ve Artvin gibi yerlerin etkisini unutmadan, sağlıklı yaşam ve çalışkanlık üzerine dersler aldım."
+Time: 1345.20s Konuk: "Doğa ile baş başa kalmak, insanın içini ferahlatıp yeniden öğrenmesini sağladı; bu deneyim, her şeyden değerli."
+Time: 1396.47s Konuk: "Gerçekten de, böyle anılar çok öğretici ve aynı zamanda son derece rahatlatıcı."
+Time: 1410.56s Konuk: "Genç bir insan olarak bundan sonraki adımlarda, çok yönlü olmayı, çalışmalarımı hem maddi hem manevi olarak geliştirmeyi hedefliyorum."
+Time: 1424.66s Konuk: "Yayın organını yeniden canlandırmak, liderlik ve fedakarlıkla mümkün; burada önemli olan, pahalılığın ötesinde değer yaratmak."
+Time: 1457.78s Konuk: "Hayatımda en çok değer verdiğim şeylerden biri, yaptığım işin arkasında kimseye zarar vermeden, bilinçli hareket etmek."
+Time: 1481.19s Konuk: "Gazetecilik ya da mesleki anlamda bir hırsım yok; önemli olan, bilerek ve gönülden yaptığıma inanılan biri olarak anılmak."
+Time: 1504.71s Konuk: "Aktif çalışmaya devam edeceğime inanıyorum; tanıdığım değerli kişilerle birlikte önümüzdeki yıllarda daha çok imza atılacak."
+Time: 1518.88s Konuk: "Ekonomik görüşlerimi haftada birkaç kere tartışıyoruz; dinleyiciler, fikir alışverişimize katılabiliyor."
+Time: 1533.52s Konuk: "Bugün burada yaşadığımız deneyimleri ve düşüncelerimizi paylaşıyorum; sağlıcakla kalın."
+──────────────────────────────
+Time: 1547.65s (Not: Program sonunda abone ol çağrısı yapılıyordu – içerik çıkarılmıştır.)
+
+──────────────────────────────
+2. Liderlik Koçluğu Soruları ve Yanıtları (JSON Formatında)
+──────────────────────────────
+Aşağıdaki JSON dizisi, transkriptte öne çıkan liderlik temaları – kriz yönetimi, stratejik karar alma, şeffaflık, ekip çalışması, dayanışma, yenilikçilik ve sürekli gelişim – çerçevesinde oluşturulmuş soruları, yanıtları ile birlikte içermektedir. Her soru, ilgili transkript bölümündeki (ortalama zaman damgası belirtilmiştir) bilgi ve ifadelerden ilham alınarak hazırlanmıştır.
+
+[
+  {
+    "question": "Kriz zamanında yaşanan olumsuzlukları fırsata dönüştürmek için nasıl stratejik kararlar alıyorsunuz?",
+    "answer": "Konuk, medyadaki ödemelerin aksaması ve sistemde tıkanmaların yaşandığı süreçte, tazminatlar ve borç konularını tartışırken kriz anına alternatif çözümler aramış. Ekibiyle birlikte borçsuz, sürdürülebilir bir yapı kurmaya çalışmış. Önerim, kriz dönemlerinde esnekliğinizi koruyarak farklı finansman modellerini keşfetmenizdir.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "190.84s"
+  },
+  {
+    "question": "Bağımsızlık ve şeffaflık ilkelerini nasıl hayata geçiriyorsunuz?",
+    "answer": "Konuk, gazeteciliğin sadece bağımsız gözlemci olmakla kalmayıp, aynı zamanda şeffaf bir iletişim ve hesap verebilirlik gerektirdiğini vurguluyor. Bu yaklaşım, hem ekibin hem de çalıştığınız kurumun itibarını güçlendiriyor. Kendi liderlik tarzınızda da benzer şeffaflık ve açıklık ilkesine yer verin.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "337.06s"
+  },
+  {
+    "question": "Ekip içindeki farklı görüşlerin ve fikirlerin, yenilikçi karar alma sürecine nasıl katkı sağladığını düşünüyorsunuz?",
+    "answer": "Konuk, toplantılar ve grup çalışmalarıyla farklı görüşlerin masaya yatırıldığı bir ortam yaratarak, krizi yönetmede ortak bir paydada buluşmanın önemini belirtiyor. İlham verici olan nokta, ekip arkadaşlarının her zaman yaratıcı fikirleri masaya koymasıdır. Siz de ekip üyelerinizden düzenli geri bildirim alarak yaratıcı çözümler geliştirin.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "617.40s"
+  },
+  {
+    "question": "Zorlu dönemlerde ekibin motivasyonunu ve dayanışmasını nasıl sağlıyorsunuz?",
+    "answer": "Konuk, hem içinde bulunduğu kriz döneminde hem de sonrasındaki toparlanma sürecinde, ortak amaç uğruna birlikte hareket etmenin önemini vurguluyor. Başarı, ekip içindeki güçlü dayanışma ve ortak inançla mümkün oluyor. Pratik olarak, düzenli ve içten toplantılarla ekibinizin motivasyonunu tazeleyebilirsiniz.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "793.61s"
+  },
+  {
+    "question": "Yenilikçi ve sürdürülebilir iş modelleri oluştururken nelere dikkat ediyorsunuz?",
+    "answer": "Konuk, 40 yıllık tecrübesiyle çizgiyi bozmayacak ancak yenilikçi adımlar atabilecek bir disiplinin önemini vurguluyor. Hem dijital hem de basılı yayınlar arasındaki dengenin korunması, stratejik planlama ve sürekli gelişim en önemli kriterlerden. Siz de mevcut iş modelinizde esneklik sağlayarak, yeni teknolojileri ve pazar dinamiklerini takip edebilirsiniz.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "688.37s"
+  },
+  {
+    "question": "Lider olarak, Kendi kararlarınızı alırken nasıl bir özgüven ve sorumluluk duygusu geliştiriyorsunuz?",
+    "answer": "Transkriptin son bölümlerinde, kendi kararlarını verirken omuzlarında taşıdıkları sorumluluğu ve bağımsızlık ilkesini güçlü bir şekilde vurguluyor. Bu durum, hem kişisel gelişimi hem de ekibin güvenini artırıyor. Kendi liderlik yolunuzda, küçük adımlarla başlayıp sorumlulukları adım adım üstlenebilirsiniz.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "1234.05s"
+  },
+  {
+    "question": "Aldığınız zor kararların, kişisel ve kurumsal gelişiminize etkilerini nasıl değerlendiriyorsunuz?",
+    "answer": "Konuk, genç yaşlardan itibaren aldıkları kararların, hem kişisel olarak olgunlaşmaya hem de kurumsal yapının gelişmesine katkıda bulunduğunu belirtiyor. Zorlu süreçler, geleceğe yönelik stratejik adımların temelini atar. Bu süreçlerde deneyimlerinizi yansıtarak, her durumda öğrenmeye açık olun.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "1166.10s"
+  },
+  {
+    "question": "Dijitalleşme ve teknolojik değişimler ışığında, liderlik vizyonunuzu nasıl yeniden şekillendiriyorsunuz?",
+    "answer": "Konuk, dijital medyanın yükselişi ve basılı yayınların dönüşümüne değinerek, bu değişimin sektör için kaçınılmaz olduğunu ifade ediyor. Lider olarak, teknolojiye uyum sağlamak ve dijital stratejiler geliştirmek, inovasyonu destekler. Bu bağlamda sürekli eğitim ve teknoloji trendlerini yakından takip etmek önemli.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "664.84s"
+  },
+  {
+    "question": "Toplumun farklı kesimlerinden gelen veriler ışığında, eğitimin ve fırsat eşitliğinin liderlik anlayışınıza ne gibi katkıları oluyor?",
+    "answer": "Konuk, Darüşşafaka’daki deneyimlerinden yola çıkarak, toplumun alt kesimlerini yukarı taşımanın ve eğitim fırsatlarını eşit hale getirmenin liderlik için kritik olduğuna inanıyor. Bu görüş, empati ve sosyal sorumluluk gibi liderlik vasıflarını pekiştiriyor. Siz de toplumsal sorumluluk projeleri ve eğitim destek programları ile fark yaratabilirsiniz.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "1147.98s"
+  },
+  {
+    "question": "Sürekli değişen piyasa koşullarında, nasıl proaktif davranıp yeni fırsatları değerlendirmeye açığız?",
+    "answer": "Konuk, piyasa dinamiklerine uyum sağlamanın, kriz zamanlarında bile yeni fırsatları görebilmek için sürekli bir yenilenme ve proaktif olma gerekliliğini vurguluyor. Proaktif olmak; düzenli analizler yapmak, trendleri takip etmek ve riskleri cesaretle göze almak demektir. Lider olarak, bu yaklaşımla her koşulda gözünüzü açık tutun.",
+    "source": "transcript_2_1PHoWJl6zNk.txt",
+    "speaker": "Konuk",
+    "time": "307.95s"
+  }
+]
+
+──────────────────────────────
+Not: Hem düzenlenen konuşma listesinde hem de JSON içerisindeki her soru–yanıt örneğinde, transkriptteki özgün anlatım ve bağlam göz önünde bulundurularak samimiyet, profesyonellik ve pratik öneriler yerleştirilmiştir.
+2025-03-13 09:48:51,639 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,639 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,639 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,640 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,640 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,640 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,640 - INFO - 0 soru-cevap çifti eklendi.
+2025-03-13 09:48:51,643 - INFO - Toplam 0 soru-cevap çifti C:\Users\veysel_gorken\Desktop\enocta-ai\rag_qa_data.json'a kaydedildi.
