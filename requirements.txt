@@ -93,3 +93,4 @@ zstandard==0.23.0
 python-dotenv
 langchain-community
 pinecone
+tavily-python
