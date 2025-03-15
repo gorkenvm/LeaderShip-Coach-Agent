@@ -6,7 +6,7 @@ import json
 from typing import Dict, List, Optional, Union
 
 class RagTool:
-    def __init__(self, pinecone_api_key="pcsk_FGjze_J5acD9jtz4Y7teEoXGNc2QvGzZVSSsmZWRBAHZSyW7f6uWGRLPchBRBUfaEupQs", openai_api_key=None):
+    def __init__(self, pinecone_api_key="pcsk_FGjze_J5acD9jtz4Y7teEoXGNc2QvGzZVSSsmZWRBAHZSyW7f6uWGRLPchBRBUfaEupQs"):
         self.pinecone_api_key = pinecone_api_key or os.getenv("PINECONE_API_KEY")
         self.openai_api_key = os.getenv("OPENAI_API_KEY")
         
