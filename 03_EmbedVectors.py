@@ -79,56 +79,58 @@ print(f"Successfully embedded and upserted {total_vectors} vectors into the '{in
 
 
 # -------------
-import json
-from langchain.embeddings.openai import OpenAIEmbeddings
-import pinecone
-import os
-from pinecone import Pinecone
+# RETRIEVE DATA FROM PINECONE
+# -------------
+# import json
+# from langchain.embeddings.openai import OpenAIEmbeddings
+# import pinecone
+# import os
+# from pinecone import Pinecone
 
-# API anahtarlarını ayarla
-PINECONE_API_KEY = "pcsk_FGjze_J5acD9jtz4Y7teEoXGNc2QvGzZVSSsmZWRBAHZSyW7f6uWGRLPchBRBUfaEupQs"
+# # API anahtarlarını ayarla
+# PINECONE_API_KEY = "pcsk_FGjze_J5acD9jtz4Y7teEoXGNc2QvGzZVSSsmZWRBAHZSyW7f6uWGRLPchBRBUfaEupQs"
 
-# Pinecone istemcisini başlat
-pc = Pinecone(api_key=PINECONE_API_KEY)
+# # Pinecone istemcisini başlat
+# pc = Pinecone(api_key=PINECONE_API_KEY)
 
-# İndeks adını tanımla
-index_name = "leadership-qa"
+# # İndeks adını tanımla
+# index_name = "leadership-qa"
 
-# İndekse bağlan
-index = pc.Index(index_name)
+# # İndekse bağlan
+# index = pc.Index(index_name)
 
-# OpenAI embeddings'i başlat
-embeddings = OpenAIEmbeddings(
-    model="text-embedding-3-large",
-    openai_api_key=OPENAI_API_KEY
-)
+# # OpenAI embeddings'i başlat
+# embeddings = OpenAIEmbeddings(
+#     model="text-embedding-3-large",
+#     openai_api_key=OPENAI_API_KEY
+# )
 
-# Sorgu fonksiyonu
-def query_pinecone(question, top_k=3):
-    # Soruyu vektörleştir
-    query_embedding = embeddings.embed_query(question)
+# # Sorgu fonksiyonu
+# def query_pinecone(question, top_k=3):
+#     # Soruyu vektörleştir
+#     query_embedding = embeddings.embed_query(question)
     
-    # Pinecone'da en benzer sonuçları ara
-    results = index.query(
-        vector=query_embedding,
-        top_k=top_k,  # En iyi k sonucu döndür
-        include_metadata=True  # Metadata'yı da al
-    )
+#     # Pinecone'da en benzer sonuçları ara
+#     results = index.query(
+#         vector=query_embedding,
+#         top_k=top_k,  # En iyi k sonucu döndür
+#         include_metadata=True  # Metadata'yı da al
+#     )
     
-    # Sonuçları işle ve döndür
-    for match in results['matches']:
-        metadata = match['metadata']
-        print(f"Score: {match['score']:.4f}")
-        print(f"Question: {metadata['question']}")
-        print(f"Answer: {metadata['answer']}")
-        print(f"Source: {metadata['source']}")
-        print(f"Speaker: {metadata['speaker']}")
-        print(f"Time: {metadata['time']}")
-        print("-" * 50)
+#     # Sonuçları işle ve döndür
+#     for match in results['matches']:
+#         metadata = match['metadata']
+#         print(f"Score: {match['score']:.4f}")
+#         print(f"Question: {metadata['question']}")
+#         print(f"Answer: {metadata['answer']}")
+#         print(f"Source: {metadata['source']}")
+#         print(f"Speaker: {metadata['speaker']}")
+#         print(f"Time: {metadata['time']}")
+#         print("-" * 50)
 
-# Test için bir soru sor
-test_question = "liderler ekibine karşı nasıl davranmalıdır ?"
-query_pinecone(test_question)
+# # Test için bir soru sor
+# test_question = "liderler ekibine karşı nasıl davranmalıdır ?"
+# query_pinecone(test_question)
 
 
 

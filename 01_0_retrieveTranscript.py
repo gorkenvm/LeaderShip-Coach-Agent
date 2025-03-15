@@ -13,7 +13,7 @@ TRANSCRIPTIONS_DIR = "transcriptions"
 AUDIO_FILES_DIR = "audio_files"
 
 # Logging setup
-SCRIPT_DIR = Path(__file__).parent
+SCRIPT_DIR = Path.cwd()
 LOG_DIR = SCRIPT_DIR / "logs"
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = LOG_DIR / "transcript_processing.log"

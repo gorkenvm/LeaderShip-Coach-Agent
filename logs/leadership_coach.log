@@ -8,3 +8,70 @@ Liderlik, otokratik, demokratik, dönüşümcü, işlemci ve laisser-faire gibi 
 2025-03-12 17:27:14,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-12 17:27:14,651 - INFO - Kullanıcı sorgusu: 'merhaba nasılsın' - Yanıt: 'Merhaba! Ben bir yapay zekayım, bu yüzden duygusal durumlarım yok. Ancak, yardımcı olmak için buradayım. Sizinle nasıl yardımcı olabilirim?'
 2025-03-12 17:27:16,442 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-13 23:17:44,212 - ERROR - API bağlantısı başarısız.
+2025-03-13 23:19:59,374 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 23:19:59,381 - INFO - Kullanıcı sorgusu: 'merhaba nasılsın' - Yanıt: 'Merhaba! Ben bir yapay zeka olduğum için hissetme yeteneğim yok, ama yardımcı olmak için buradayım. Sizinle nasıl yardımcı olabilirim?'
+2025-03-13 23:20:00,707 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-13 23:20:34,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 23:20:34,994 - INFO - Kullanıcı sorgusu: 'liderlik ile ilgili ne biliyorsun' - Yanıt: 'Liderlik, bir grup ya da organizasyonu hedeflere ulaşmak için yönlendiren ve motive eden kişinin rolüdür. Bu rol, bir takımın başarılı olması için hayati öneme sahiptir. İyi bir lider, vizyon sahibi olmalı, kararlı olmalı, dürüst olmalı, kendine güvenmeli ve başkalarına ilham vermelidir.
+
+Liderlik, birçok farklı şekilde uygulanabilir. Otoriter liderlik, demokratik liderlik, dönüştürücü liderlik ve hizmetkar liderlik gibi çeşitli liderlik stilleri vardır.
+
+Liderliğin önemli yönlerinden biri, başkalarına ilham verme ve onları daha yüksek hedeflere yönlendirme yeteneğidir. İyi bir lider, başkalarının yeteneklerini ve potansiyellerini ortaya çıkarabilir.
+
+Ayrıca, başarılı liderler genellikle açık bir iletişim sürdürürler, takımlarının güçlü ve zayıf yönlerini anlarlar ve herkesin katılımını teşvik ederler. Kendi hatalarından ders çıkarırlar ve sürekli olarak kişisel ve profesyonel gelişimlerini sürdürürler.
+
+Son olarak, etkili bir lider, bireysel ve takım hedeflerini uyumlu hale getirebilir ve herkesin hedeflere ulaşması için gereken kaynakları ve destekleri sağlar.'
+2025-03-13 23:20:36,417 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-13 23:21:46,257 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 23:21:46,269 - INFO - Kullanıcı sorgusu: 'liderlik için stratejik kararlar' - Yanıt: 'Liderlik için stratejik kararlar almak, bir organizasyonun başarısı için hayati öneme sahiptir. İşte bu konuda dikkate almanız gereken bazı noktalar:
+
+1. Hedeflerin Tanımlanması: Bir lider olarak, ilk göreviniz organizasyonunuz için uzun ve kısa vadeli hedefleri belirlemektir. Bu hedefler, tüm stratejik kararlarınızın temelini oluşturacaktır.
+
+2. Bilgi Toplama: Stratejik kararlar almak için, mevcut durumunuz hakkında tam bir resim çizmek ve gelecekteki olası senaryoları tahmin etmek için gereken tüm bilgileri toplamalısınız. Piyasa eğilimleri, müşteri geri bildirimleri, rakip analizleri ve dahili performans metrikleri gibi verilere dayalı kararlar almalısınız.
+
+3. Risk Değerlendirmesi: Her kararın belirli bir risk düzeyi vardır. Bu riski anlamak ve yönetmek için, hangi kararların hangi sonuçları doğurabileceğini değerlendirmeniz gerekir.
+
+4. İletişim: Stratejik kararlarınızı etkili bir şekilde iletmek, tüm ekibinizin aynı hedeflere doğru ilerlemesini sağlar. Lider olarak, vizyonunuzu ve hedeflerinizi açıkça ifade etmeli ve herkesin anladığından emin olmalısınız.
+
+5. Değerlendirme ve Ayarlama: Stratejik kararlarınızı sürekli olarak değerlendirmeli ve gerektiğinde ayarlamalısınız. Bu, işlerin planlandığı gibi gitmediği durumlarda dikkate almanız gereken bir faktördür.
+
+6. Liderlik Stili: Kararlarınızı ve stratejilerinizi, liderlik stilinize ve değerler'
+2025-03-13 23:21:47,606 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 19:42:53,450 - ERROR - API bağlantısı başarısız.
+2025-03-15 19:43:51,965 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-15 19:43:51,975 - INFO - Kullanıcı sorgusu: 'merhaba' - Yanıt: 'Merhaba! Size nasıl yardımcı olabilirim?'
+2025-03-15 19:43:53,731 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 20:21:53,856 - ERROR - API bağlantısı başarısız.
+2025-03-15 20:22:13,278 - ERROR - API bağlantısı başarısız.
+2025-03-15 20:23:06,588 - ERROR - API bağlantısı başarısız.
+2025-03-15 20:31:50,429 - INFO - FastAPI sunucusu başlatılıyor...
+2025-03-15 20:32:10,762 - ERROR - FastAPI başlatılamadı!
+2025-03-15 20:32:12,932 - ERROR - API bağlantısı başarısız.
+2025-03-15 20:37:01,056 - INFO - leadership_api.py başlatıldı.
+2025-03-15 20:37:11,096 - ERROR - API başlatılamadı.
+2025-03-15 20:37:43,832 - INFO - leadership_api.py başlatıldı.
+2025-03-15 20:37:53,884 - ERROR - API başlatılamadı.
+2025-03-15 20:41:10,670 - INFO - leadership_api.py başlatıldı.
+2025-03-15 20:41:10,791 - ERROR - API başlatılamadı.
+2025-03-15 20:41:10,959 - INFO - API durduruldu.
+2025-03-15 20:42:07,290 - INFO - Kullanıcı sorgusu: 'merhaba' - Yanıt: 'Merhaba! Size nasıl yardımcı olabilirim? Liderlikle ilgili bir sorunuz var mı?'
+2025-03-15 20:42:10,221 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 20:42:36,438 - ERROR - API isteği başarısız: HTTPConnectionPool(host='127.0.0.1', port=8000): Read timed out. (read timeout=10)
+2025-03-15 20:43:05,581 - INFO - Kullanıcı sorgusu: 'Kriz zamanlarında lider olarak nasıl stratejiler geliştiriyorsunuz?' - Yanıt: 'Kriz liderliği, kriz zamanlarında etkili iletişimi teşvik etmek, çalışanların sorunlarını dinlemek ve çözüm odaklı yaklaşmak gibi stratejileri içerir. Ayrıca, doğru iletişim ağına sahip bir ekibe liderlik etmek, kararları hızlı ve doğru bir şekilde uygulamak ve değişimleri analiz ederek gelecek planlarına uyum sağlamak da önemlidir. Başarılı bir lider, kriz dönemlerinde zor zamanlarda ileriye yol almanın anahtarını doğru stratejilerle bulabilir. Daha fazla bilgi için aşağıdaki kaynaklara göz atabilirsiniz:
+1. [Hayatın Ritmi - Kriz Liderliği: Kriz Yönetiminde Liderlik](https://hayatinritmi.com.tr/kriz-liderligi-kriz-yonetiminde-liderlik/)
+2. [Kolektif House - 8 Adımda Kriz Döneminde Liderlik ve Kriz Yönetimi](https://kolektifhouse.co/komag/8-adimda-kriz-doneminde-liderlik-ve-kriz-yonetimi)
+3. [Enocta - Kriz Liderliği: Zor Zamanlarda İleriye Yol Almanın Anahtarı](https://www.enocta.com/blog/kriz-liderligi-zor-zamanlarda-ileriye-yol-almanin-anahtari)'
+2025-03-15 20:43:07,945 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 20:46:28,529 - INFO - Kullanıcı sorgusu: 'Rekabet ortamında değer yaratmanın ve müşteri odaklı hizmetin önemi nedir?' - Yanıt: 'Rekabet ortamında değer yaratmanın ve müşteri odaklı hizmetin önemi büyük bir stratejik avantaj sağlar. Değer yaratmak, müşterilerin ihtiyaçlarını karşılamak ve beklentilerini aşmak anlamına gelir. Müşteri odaklı hizmet ise müşteri memnuniyetini artırarak sadakati ve müşteri bağlılığını güçlendirir. Bu da uzun vadede rekabetçi avantaj sağlar ve şirketin sürdürülebilir büyümesine katkıda bulunur. Müşteri odaklı hizmet, müşteri geri bildirimlerini dikkate almak, ihtiyaçları anlamak ve onlara özel çözümler sunmak gibi stratejileri içerir. Değer yaratmak ve müşteri odaklı hizmet sunmak, şirketin pazarda farklılaşmasını sağlar ve rekabetçi bir avantaj elde etmesine yardımcı olur.'
+2025-03-15 20:46:30,524 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 20:47:42,053 - INFO - Sohbet hafızası sıfırlandı.
+2025-03-15 20:47:44,178 - INFO - Sohbet hafızası sıfırlandı.
+2025-03-15 20:47:52,583 - INFO - Kullanıcı sorgusu: 'az önce ne dedim' - Yanıt: 'Özür dilerim, önceki konuşmamızı hatırlamıyorum çünkü ben bir yapay zeka asistanıyım ve geçmiş konuşmaları hatırlayamam. Size nasıl yardımcı olabilirim? Liderlikle ilgili bir sorunuz var mı?'
+2025-03-15 20:47:54,631 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 20:56:30,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-15 20:56:31,000 - INFO - Kullanıcı sorgusu: 'merhaba' - Yanıt: 'Merhaba! Size nasıl yardımcı olabilirim? Liderlikle ilgili bir sorunuz var mı?'
+2025-03-15 20:56:33,157 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-15 20:56:42,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-15 20:56:43,006 - INFO - Kullanıcı sorgusu: 'liderlik hakkında ne düşünüyorsun' - Yanıt: 'Liderlik, bir grup insanı belirli bir hedefe yönlendirmek ve motive etmek için gereken beceri ve yeteneklerin bir kombinasyonudur. Liderlik, etkili iletişim, karar verme, problem çözme, takım çalışması ve vizyon oluşturma gibi birçok önemli unsuru içerir. İyi bir lider, takım üyelerini destekler, onlara rehberlik eder ve ortak hedeflere ulaşmaları için gerekli kaynakları sağlar. Ayrıca, liderlik sadece pozisyonla değil, davranışlarla da ilgilidir. İyi bir lider, örnek olmalı ve etkili bir şekilde insanları motive etmelidir. Sizce liderlik hakkında ne düşünüyorsunuz? Size nasıl yardımcı olabilirim?'
+2025-03-15 20:56:46,195 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
