@@ -90,4 +90,4 @@ yarl==1.18.3
 youtube-transcript-api==1.0.0
 yt-dlp==2025.2.19
 zstandard==0.23.0
-weaviate-client==4.11.1
+python-dotenv
