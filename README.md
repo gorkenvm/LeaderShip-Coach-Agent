@@ -1,7 +1,5 @@
 # Enocta AI Leadership Coach Agent
 
-[![Project Banner](https://via.placeholder.com/1200x400?text=Enocta+AI+Leadership+Coach+Agent)](https://enocta-ai-leadership-coach-agent.streamlit.app/)
-
 [🔗 Live Demo](https://enocta-ai-leadership-coach-agent.streamlit.app/)
 
 ## 🚀 Overview
