@@ -46,8 +46,9 @@ Kullanıcıya bir koç gibi yaklaş, sorularını dikkatle analiz et ve gerekti�
 Kullanıcı liderlik ile ilgili bir soru sormuyorsa soruyu anlamaya çalış ve gerektiğinde kullanıcıyı yönlendir.
 Cevaplarında somut örnekler ve rehber ilkeler sunmaya özen göster.
 Geçmiş sohbeti dikkate alarak tutarlı ve bağlamsal cevaplar ver.
+Uzun cevap vermemeye özen göster.
 
-Önemli Not : Acele etmeden cevap ver ve referans'a sahipsen referensları url olarak paylaş.
+Önemli Not : Acele etmeden cevap ver ve URL olarak referans'a sahipsen cevabı yazarken kullandığın urlleri de referans olarak tıklanabilecek şekilde olarak paylaş.
 """
 
 # Modüler Fonksiyonlar
@@ -80,7 +81,7 @@ def evaluate_rag_results(user_question: str, rag_results: List[Dict]) -> str:
     if response == "True":
         print("RAG sonuçları yeterli ve doğru.")
         ""
-        logger.info(f"RAG sonuçları ✅ Yeterli: \n\n ------------ {rag_results_str} ------------ \n\n")
+        logger.info(f"RAG sonuçları ✅ Yeterli \n\n RAG sonuçları ✅ Yeterli : \n\n ------------\n\n {rag_results_str}\n\n ------------ \n\n  RAG sonuçları ✅ Yeterli \n\n ")
         return rag_results_str
     else:
         print("RAG sonuçları yetersiz veya yanlış.")
