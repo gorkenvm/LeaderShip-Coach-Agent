@@ -1,6 +1,6 @@
 # Enocta AI Leadership Coach Agent
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Enocta+AI+Leadership+Coach+Agent)
+![Project Banner](https://via.placeholder.com/1200x400?text=enocta+ai+Leadership+Coach+Agent)
 
 ## 🚀 Overview
 The **Enocta AI Leadership Coach Agent** is an AI-powered virtual assistant designed to provide leadership coaching through interactive conversations. Built using **Streamlit**, this project offers personalized coaching insights by leveraging large language models (LLMs).
