@@ -86,7 +86,7 @@ def evaluate_rag_results(user_question: str, rag_results: List[Dict]) -> str:
     else:
         print("RAG sonuçları yetersiz veya yanlış.")
         log_web = fallback_to_web_search(user_question)
-        logger.info(f"RAG sonuçları ❌ Yetersiz: \n\n ------------ {log_web} ------------ \n\n")
+        logger.info(f"RAG sonuçları ❌ Yetersiz  \n\n RAG sonuçları ❌ Yetersiz : \n\n ------------ {log_web} ------------ \n\n")
         return log_web
 
 def fallback_to_web_search(user_question: str) -> str:
