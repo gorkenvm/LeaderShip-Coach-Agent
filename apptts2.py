@@ -27,7 +27,7 @@ chat_instance = LeadershipChat()
 def get_coach_response(prompt: str) -> tuple[str, str]:
     try:
         coach_reply = chat_instance.chat(prompt)
-        logger.info(f"Kullanıcı sorgusu: '{prompt}' - Yanıt: '{coach_reply}'")
+        logger.info(f"Kullanıcı sorgusu: '{prompt}' - \n Yanıt: '{coach_reply}'")
 
         openai_api_key = os.getenv("OPENAI_API_KEY")
         if not openai_api_key:

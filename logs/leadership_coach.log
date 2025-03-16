@@ -75,3 +75,11 @@ Son olarak, etkili bir lider, bireysel ve takım hedeflerini uyumlu hale getireb
 2025-03-15 20:56:42,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-03-15 20:56:43,006 - INFO - Kullanıcı sorgusu: 'liderlik hakkında ne düşünüyorsun' - Yanıt: 'Liderlik, bir grup insanı belirli bir hedefe yönlendirmek ve motive etmek için gereken beceri ve yeteneklerin bir kombinasyonudur. Liderlik, etkili iletişim, karar verme, problem çözme, takım çalışması ve vizyon oluşturma gibi birçok önemli unsuru içerir. İyi bir lider, takım üyelerini destekler, onlara rehberlik eder ve ortak hedeflere ulaşmaları için gerekli kaynakları sağlar. Ayrıca, liderlik sadece pozisyonla değil, davranışlarla da ilgilidir. İyi bir lider, örnek olmalı ve etkili bir şekilde insanları motive etmelidir. Sizce liderlik hakkında ne düşünüyorsunuz? Size nasıl yardımcı olabilirim?'
 2025-03-15 20:56:46,195 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-16 12:09:16,081 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 12:09:16,095 - INFO - Kullanıcı sorgusu: 'merhaba' - 
+ Yanıt: 'Merhaba! Size nasıl yardımcı olabilirim? Liderlikle ilgili bir sorunuz var mı?'
+2025-03-16 12:09:17,934 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-03-16 12:09:55,843 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 12:09:55,849 - INFO - Kullanıcı sorgusu: 'kim lider köpek' - 
+ Yanıt: 'Özür dilerim, sorunuzu anlamakta zorlanıyorum. Liderlikle ilgili bir konuda size nasıl yardımcı olabilirim? Liderlikle ilgili bir sorunuz varsa, lütfen bana sorunuzun detaylarını paylaşın, size yardımcı olmaktan memnuniyet duyarım.'
+2025-03-16 12:09:58,432 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

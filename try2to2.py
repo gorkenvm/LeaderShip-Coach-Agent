@@ -11,6 +11,23 @@ from langchain.agents.output_parsers import OpenAIFunctionsAgentOutputParser
 from langchain.schema.agent import AgentFinish
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from RagClass2 import RagTool, WebSearchTool
+from pathlib import Path
+import logging
+
+SCRIPT_DIR = Path.cwd()
+LOG_DIR = SCRIPT_DIR / "logs"
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+LOG_FILE = LOG_DIR / "leadership_coach.log"
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
 
 # Ortam değişkenlerini yükle
 load_dotenv()
@@ -60,10 +77,14 @@ def evaluate_rag_results(user_question: str, rag_results: List[Dict]) -> str:
 
     if response == "True":
         print("RAG sonuçları yeterli ve doğru.")
+        ""
+        logger.info(f"RAG sonuçları ✅ Yeterli: \n\n ------------ {rag_results_str} ------------ \n\n")
         return rag_results_str
     else:
         print("RAG sonuçları yetersiz veya yanlış.")
-        return fallback_to_web_search(user_question)
+        log_web = fallback_to_web_search(user_question)
+        logger.info(f"RAG sonuçları ❌ Yetersiz: \n\n ------------ {log_web} ------------ \n\n")
+        return log_web
 
 def fallback_to_web_search(user_question: str) -> str:
     try:
