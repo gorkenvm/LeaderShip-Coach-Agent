@@ -46,6 +46,8 @@ Kullanıcıya bir koç gibi yaklaş, sorularını dikkatle analiz et ve gerekti�
 Kullanıcı liderlik ile ilgili bir soru sormuyorsa soruyu anlamaya çalış ve gerektiğinde kullanıcıyı yönlendir.
 Cevaplarında somut örnekler ve rehber ilkeler sunmaya özen göster.
 Geçmiş sohbeti dikkate alarak tutarlı ve bağlamsal cevaplar ver.
+
+Önemli Not : Acele etmeden cevap ver ve referans'a sahipsen referensları url olarak paylaş.
 """
 
 # Modüler Fonksiyonlar
