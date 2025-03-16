@@ -64,7 +64,7 @@ def main():
         - Sorular sorabilirsiniz: "Ekip motivasyonunu nasıl artırırım?"
         - Tavsiye isteyebilirsiniz: "Zor bir görüşme nasıl yönetilir?"
         
-        **Not:** OPENAI_API_KEY ses desteği için gereklidir.
+        **Not:** Bot'u kullanırken Sağ Alt köşede bulunan Manage App'i tıklayarak, Data'nın RAG dan mı WEB ten mi geldiğini görebilirsiniz.
         """)
         st.write("© 2025 enocta.ai")
 
