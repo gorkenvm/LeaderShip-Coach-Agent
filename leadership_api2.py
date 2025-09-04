@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from try2to2 import LeadershipChat  # veya from RagClass import LeadershipChat
+from src.agents.leadership import LeadershipChat  # veya from RagClass import LeadershipChat
 
 app = FastAPI()
 chat_instance = LeadershipChat()

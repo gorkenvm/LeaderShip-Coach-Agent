@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 import streamlit as st
 import tempfile
-from try2to2 import LeadershipChat
+from src.leadership_coach.agents.leadership import LeadershipChat
 
 # Logging setup
 SCRIPT_DIR = Path.cwd()
