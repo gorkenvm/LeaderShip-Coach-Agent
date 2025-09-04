@@ -1,6 +1,6 @@
 # Enocta AI Leadership Coach Agent
 
-![Banner](./banner.png)
+![Banner](./assets/banner.png)
 
 
 ## 🚀 Overview
