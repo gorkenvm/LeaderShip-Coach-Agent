@@ -11,5 +11,4 @@ def main():
     args = parse_args()
     ingest_main(url=args.url, out_dir=args.out)
 
-if __name__ == "__main__":
-    main()
+
