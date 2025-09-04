@@ -10,7 +10,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.agents.output_parsers import OpenAIFunctionsAgentOutputParser
 from langchain.schema.agent import AgentFinish
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
-from RagClass2 import RagTool, WebSearchTool
+from src.rag.chains import RagTool, WebSearchTool
 from pathlib import Path
 import logging
 
