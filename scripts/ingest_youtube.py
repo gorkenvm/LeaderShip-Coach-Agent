@@ -12,3 +12,5 @@ def main():
     ingest_main(url=args.url, out_dir=args.out)
 
 
+if __name__ == "__main__":
+    main()
