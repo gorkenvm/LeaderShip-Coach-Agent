@@ -50,9 +50,10 @@ ELEVENLABS_API_KEY=your_elevenlabs_api_key  # Optional
 WEAVIATE_URL=your_weaviate_url  # Optional
 ```
 
+
 ### 5️⃣ Run the Application
 ```bash
-streamlit run apptts2.py
+streamlit run app/streamlit_app.py
 ```
 
 ## 🛠 Deployment
@@ -64,17 +65,60 @@ streamlit run apptts2.py
 
 ## 📂 Project Structure
 ```
-├── enocta_ai_leadership_coach_agent/
-│   ├── apptts2.py             # Main Streamlit app
-│   ├── RagClass2.py           # RAG and WebSearch Tools
-│   ├── try2to2.py            # Build Agent System
-│   ├── leadership_api.py     # An extra if you want to use API
-│   ├── requirements.txt      # Required dependencies
-│   ├── 01_0_retrieveTranscript.py # Retrieve data from youtube and transcript it
-│   ├── 02_CleanGenerateContentforRag.py     # Clean Raw Data for RAG System
-│   ├── 03_EmbedVectors.txt      # Embed RAG vectors to Cloud Vector Database
-│   ├── .env.example          # Environment variables template
-└── README.md                 # Project documentation
+LEADERSHIP-COACH-AGENT/
+├─ app/                               # Application layer (Streamlit, UI entry point)
+│  └─ streamlit_app.py
+│
+├─ assets/                            # Static assets (images, logos, banners)
+│  ├─ logo.png
+│  └─ banner.png
+│
+├─ docs/                              # Project documentation
+│  └─ EnocTa-AI-Engineer-Project Task Instructions.pdf
+│
+├─ logs/                              # Log files
+│  ├─ leadership_coach.log
+│  ├─ qa_extraction.log
+│  └─ transcript_processing.log
+│
+├─ scripts/                           # Helper scripts & pipeline runners
+│  ├─ build_index.py
+│  ├─ ingest_youtube.py
+│  └─ runall.py
+│
+├─ src/                               # Core source code
+│  ├─ agents/
+│  │  └─ leadership.py
+│  │
+│  ├─ leadership_coach/
+│  │  ├─ config.py
+│  │  └─ agents/
+│  │     └─ apiLeadership.py
+│  │
+│  └─ rag/
+│     ├─ data/
+│     │  └─ rag_qa_data.json
+│     │
+│     ├─ index/
+│     │  └─ embed.py
+│     │
+│     ├─ ingest/
+│     │  └─ youtube.py
+│     │
+│     └─ preprocess/
+│        └─ clean.py
+│     └─ chains.py
+│
+├─ transcriptions/                    # Raw transcripts
+├─ transcriptions_diarized/           # Diarized transcripts (speaker-separated)
+│
+├─ .env.example                       # Example environment variables
+├─ .gitignore
+├─ .gitattributes
+├─ pyproject.toml
+├─ requirements.txt
+├─ README.md
+
 ```
 
 
