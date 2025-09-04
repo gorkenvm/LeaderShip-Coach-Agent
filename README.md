@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ### 4️⃣ Set Environment Variables
 Create a `.env` file in the root directory and add the following:
 ```
-TAVILY_API_KEY=your_tavily_api_key
+TAVILY_API_KEY=your_tavily_api_key # Obligation
 ELEVENLABS_API_KEY=your_elevenlabs_api_key  # Optional
 WEAVIATE_URL=your_weaviate_url  # Optional
 ```
