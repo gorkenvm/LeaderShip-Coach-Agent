@@ -53,7 +53,7 @@ pandas==2.2.3
 pillow>=12.1.1
 propcache==0.3.0
 protobuf>=5.29.5
-pyarrow==19.0.1
+pyarrow==23.0.1
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydeck==0.9.1
